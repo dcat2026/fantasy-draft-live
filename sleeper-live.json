@@ -1,7 +1,7 @@
 {
   "draft_id": "1400200040592510976",
-  "updated_at": "2026-08-31T17:58:59.992Z",
-  "pick_count": 137,
+  "updated_at": "2026-08-31T17:59:11.749Z",
+  "pick_count": 139,
   "picks": [
     {
       "pick_no": 1,
@@ -1372,6 +1372,26 @@
       "draft_slot": 10,
       "roster_id": "",
       "player_id": "3163"
+    },
+    {
+      "pick_no": 138,
+      "player": "Jacksonville Jaguars",
+      "position": "DEF",
+      "team": "JAX",
+      "amount": 1,
+      "draft_slot": 1,
+      "roster_id": "",
+      "player_id": "JAX"
+    },
+    {
+      "pick_no": 139,
+      "player": "Mike Washington",
+      "position": "RB",
+      "team": "LV",
+      "amount": 1,
+      "draft_slot": 2,
+      "roster_id": "",
+      "player_id": "13305"
     }
   ]
 }
