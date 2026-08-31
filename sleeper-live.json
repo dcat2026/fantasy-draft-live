@@ -1,7 +1,7 @@
 {
   "draft_id": "1400200040592510976",
-  "updated_at": "2026-08-31T17:55:53.466Z",
-  "pick_count": 120,
+  "updated_at": "2026-08-31T17:56:04.853Z",
+  "pick_count": 122,
   "picks": [
     {
       "pick_no": 1,
@@ -1202,6 +1202,26 @@
       "draft_slot": 10,
       "roster_id": "",
       "player_id": "13417"
+    },
+    {
+      "pick_no": 121,
+      "player": "Matthew Golden",
+      "position": "WR",
+      "team": "GB",
+      "amount": 1,
+      "draft_slot": 1,
+      "roster_id": "",
+      "player_id": "12501"
+    },
+    {
+      "pick_no": 122,
+      "player": "Denver Broncos",
+      "position": "DEF",
+      "team": "DEN",
+      "amount": 1,
+      "draft_slot": 2,
+      "roster_id": "",
+      "player_id": "DEN"
     }
   ]
 }
