@@ -1,7 +1,7 @@
 {
   "draft_id": "1400200040592510976",
-  "updated_at": "2026-08-31T17:57:06.850Z",
-  "pick_count": 127,
+  "updated_at": "2026-08-31T17:57:18.583Z",
+  "pick_count": 129,
   "picks": [
     {
       "pick_no": 1,
@@ -1272,6 +1272,26 @@
       "draft_slot": 7,
       "roster_id": "",
       "player_id": "5947"
+    },
+    {
+      "pick_no": 128,
+      "player": "Chris Rodriguez",
+      "position": "RB",
+      "team": "JAX",
+      "amount": 1,
+      "draft_slot": 8,
+      "roster_id": "",
+      "player_id": "10219"
+    },
+    {
+      "pick_no": 129,
+      "player": "Tyler Allgeier",
+      "position": "RB",
+      "team": "ARI",
+      "amount": 1,
+      "draft_slot": 9,
+      "roster_id": "",
+      "player_id": "8132"
     }
   ]
 }
