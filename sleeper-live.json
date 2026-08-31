@@ -1,7 +1,7 @@
 {
   "draft_id": "1400200040592510976",
-  "updated_at": "2026-08-31T17:55:00.976Z",
-  "pick_count": 115,
+  "updated_at": "2026-08-31T17:55:04.833Z",
+  "pick_count": 117,
   "picks": [
     {
       "pick_no": 1,
@@ -1152,6 +1152,26 @@
       "draft_slot": 5,
       "roster_id": "",
       "player_id": "13298"
+    },
+    {
+      "pick_no": 116,
+      "player": "Patrick Mahomes",
+      "position": "QB",
+      "team": "KC",
+      "amount": 1,
+      "draft_slot": 6,
+      "roster_id": "",
+      "player_id": "4046"
+    },
+    {
+      "pick_no": 117,
+      "player": "Rachaad White",
+      "position": "RB",
+      "team": "WAS",
+      "amount": 1,
+      "draft_slot": 7,
+      "roster_id": "",
+      "player_id": "8136"
     }
   ]
 }
