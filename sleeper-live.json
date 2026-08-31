@@ -1,7 +1,7 @@
 {
   "draft_id": "1400200040592510976",
-  "updated_at": "2026-08-31T18:00:43.788Z",
-  "pick_count": 146,
+  "updated_at": "2026-08-31T18:00:54.692Z",
+  "pick_count": 148,
   "picks": [
     {
       "pick_no": 1,
@@ -1462,6 +1462,26 @@
       "draft_slot": 10,
       "roster_id": "",
       "player_id": "13293"
+    },
+    {
+      "pick_no": 147,
+      "player": "Hunter Henry",
+      "position": "TE",
+      "team": "NE",
+      "amount": 1,
+      "draft_slot": 3,
+      "roster_id": "",
+      "player_id": "3214"
+    },
+    {
+      "pick_no": 148,
+      "player": "Rashid Shaheed",
+      "position": "WR",
+      "team": "SEA",
+      "amount": 1,
+      "draft_slot": 5,
+      "roster_id": "",
+      "player_id": "8676"
     }
   ]
 }
