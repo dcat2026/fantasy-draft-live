@@ -1,7 +1,7 @@
 {
   "draft_id": "1400200040592510976",
-  "updated_at": "2026-08-31T18:00:32.645Z",
-  "pick_count": 144,
+  "updated_at": "2026-08-31T18:00:43.788Z",
+  "pick_count": 146,
   "picks": [
     {
       "pick_no": 1,
@@ -1442,6 +1442,26 @@
       "draft_slot": 3,
       "roster_id": "",
       "player_id": "13345"
+    },
+    {
+      "pick_no": 145,
+      "player": "Jalen Coker",
+      "position": "WR",
+      "team": "CAR",
+      "amount": 1,
+      "draft_slot": 5,
+      "roster_id": "",
+      "player_id": "11646"
+    },
+    {
+      "pick_no": 146,
+      "player": "Ja'Kobi Lane",
+      "position": "WR",
+      "team": "BAL",
+      "amount": 1,
+      "draft_slot": 10,
+      "roster_id": "",
+      "player_id": "13293"
     }
   ]
 }
