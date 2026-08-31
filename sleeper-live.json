@@ -1,7 +1,7 @@
 {
   "draft_id": "1400200040592510976",
-  "updated_at": "2026-08-31T17:57:30.844Z",
-  "pick_count": 129,
+  "updated_at": "2026-08-31T17:57:42.325Z",
+  "pick_count": 131,
   "picks": [
     {
       "pick_no": 1,
@@ -1292,6 +1292,26 @@
       "draft_slot": 9,
       "roster_id": "",
       "player_id": "8132"
+    },
+    {
+      "pick_no": 130,
+      "player": "New England Patriots",
+      "position": "DEF",
+      "team": "NE",
+      "amount": 1,
+      "draft_slot": 10,
+      "roster_id": "",
+      "player_id": "NE"
+    },
+    {
+      "pick_no": 131,
+      "player": "Dallas Goedert",
+      "position": "TE",
+      "team": "PHI",
+      "amount": 1,
+      "draft_slot": 1,
+      "roster_id": "",
+      "player_id": "5022"
     }
   ]
 }
