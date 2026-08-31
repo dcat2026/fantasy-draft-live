@@ -1,7 +1,7 @@
 {
   "draft_id": "1400200040592510976",
-  "updated_at": "2026-08-31T17:55:29.196Z",
-  "pick_count": 117,
+  "updated_at": "2026-08-31T17:55:40.957Z",
+  "pick_count": 120,
   "picks": [
     {
       "pick_no": 1,
@@ -1172,6 +1172,36 @@
       "draft_slot": 7,
       "roster_id": "",
       "player_id": "8136"
+    },
+    {
+      "pick_no": 118,
+      "player": "Mark Andrews",
+      "position": "TE",
+      "team": "BAL",
+      "amount": 1,
+      "draft_slot": 8,
+      "roster_id": "",
+      "player_id": "5012"
+    },
+    {
+      "pick_no": 119,
+      "player": "Bo Nix",
+      "position": "QB",
+      "team": "DEN",
+      "amount": 1,
+      "draft_slot": 9,
+      "roster_id": "",
+      "player_id": "11563"
+    },
+    {
+      "pick_no": 120,
+      "player": "De'Zhaun Stribling",
+      "position": "WR",
+      "team": "SF",
+      "amount": 1,
+      "draft_slot": 10,
+      "roster_id": "",
+      "player_id": "13417"
     }
   ]
 }
