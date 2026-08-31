@@ -1,7 +1,7 @@
 {
   "draft_id": "1400200040592510976",
-  "updated_at": "2026-08-31T17:59:52.020Z",
-  "pick_count": 142,
+  "updated_at": "2026-08-31T18:00:06.071Z",
+  "pick_count": 144,
   "picks": [
     {
       "pick_no": 1,
@@ -1422,6 +1422,26 @@
       "draft_slot": 10,
       "roster_id": "",
       "player_id": "12474"
+    },
+    {
+      "pick_no": 143,
+      "player": "Tyrone Tracy",
+      "position": "RB",
+      "team": "NYG",
+      "amount": 1,
+      "draft_slot": 2,
+      "roster_id": "",
+      "player_id": "11655"
+    },
+    {
+      "pick_no": 144,
+      "player": "Jonah Coleman",
+      "position": "RB",
+      "team": "DEN",
+      "amount": 1,
+      "draft_slot": 3,
+      "roster_id": "",
+      "player_id": "13345"
     }
   ]
 }
