@@ -1,7 +1,7 @@
 {
   "draft_id": "1400200040592510976",
-  "updated_at": "2026-08-31T18:01:24.532Z",
-  "pick_count": 150,
+  "updated_at": "2026-08-31T18:01:35.031Z",
+  "pick_count": 148,
   "picks": [
     {
       "pick_no": 1,
@@ -1482,26 +1482,6 @@
       "draft_slot": 5,
       "roster_id": "",
       "player_id": "8676"
-    },
-    {
-      "pick_no": 149,
-      "player": "Los Angeles Chargers",
-      "position": "DEF",
-      "team": "LAC",
-      "amount": 1,
-      "draft_slot": 3,
-      "roster_id": "",
-      "player_id": "LAC"
-    },
-    {
-      "pick_no": 150,
-      "player": "Alvin Kamara",
-      "position": "RB",
-      "team": "NO",
-      "amount": 1,
-      "draft_slot": 5,
-      "roster_id": "",
-      "player_id": "4035"
     }
   ]
 }
