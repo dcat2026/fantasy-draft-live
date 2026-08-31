@@ -1,7 +1,7 @@
 {
   "draft_id": "1400200040592510976",
-  "updated_at": "2026-08-31T17:58:36.295Z",
-  "pick_count": 135,
+  "updated_at": "2026-08-31T17:58:47.684Z",
+  "pick_count": 137,
   "picks": [
     {
       "pick_no": 1,
@@ -1352,6 +1352,26 @@
       "draft_slot": 6,
       "roster_id": "",
       "player_id": "11581"
+    },
+    {
+      "pick_no": 136,
+      "player": "Minnesota Vikings",
+      "position": "DEF",
+      "team": "MIN",
+      "amount": 1,
+      "draft_slot": 7,
+      "roster_id": "",
+      "player_id": "MIN"
+    },
+    {
+      "pick_no": 137,
+      "player": "Jared Goff",
+      "position": "QB",
+      "team": "DET",
+      "amount": 1,
+      "draft_slot": 10,
+      "roster_id": "",
+      "player_id": "3163"
     }
   ]
 }
