@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T00:37:34.822Z",
-  "pick_count": 16,
+  "updated_at": "2026-09-08T00:37:46.574Z",
+  "pick_count": 17,
   "picks": [
     {
       "pick_no": 1,
@@ -162,6 +162,16 @@
       "draft_slot": 6,
       "roster_id": 9,
       "player_id": "4984"
+    },
+    {
+      "pick_no": 17,
+      "player": "A.J. Brown",
+      "position": "WR",
+      "team": "NE",
+      "amount": 180,
+      "draft_slot": 2,
+      "roster_id": 3,
+      "player_id": "5859"
     }
   ]
 }
