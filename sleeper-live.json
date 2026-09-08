@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:03:17.919Z",
-  "pick_count": 88,
+  "updated_at": "2026-09-08T03:03:27.833Z",
+  "pick_count": 89,
   "picks": [
     {
       "pick_no": 1,
@@ -882,6 +882,16 @@
       "draft_slot": 8,
       "roster_id": 1,
       "player_id": "7526"
+    },
+    {
+      "pick_no": 89,
+      "player": "Bhayshul Tuten",
+      "position": "RB",
+      "team": "JAX",
+      "amount": 55,
+      "draft_slot": 2,
+      "roster_id": 3,
+      "player_id": "12490"
     }
   ]
 }
