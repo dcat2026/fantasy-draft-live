@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T00:34:37.300Z",
-  "pick_count": 14,
+  "updated_at": "2026-09-08T00:34:47.548Z",
+  "pick_count": 15,
   "picks": [
     {
       "pick_no": 1,
@@ -142,6 +142,16 @@
       "draft_slot": 4,
       "roster_id": 4,
       "player_id": "9221"
+    },
+    {
+      "pick_no": 15,
+      "player": "James Cook",
+      "position": "RB",
+      "team": "BUF",
+      "amount": 234,
+      "draft_slot": 3,
+      "roster_id": 2,
+      "player_id": "8138"
     }
   ]
 }
