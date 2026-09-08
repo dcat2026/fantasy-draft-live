@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:31:02.168Z",
-  "pick_count": 116,
+  "updated_at": "2026-09-08T03:31:11.737Z",
+  "pick_count": 117,
   "picks": [
     {
       "pick_no": 1,
@@ -1162,6 +1162,16 @@
       "draft_slot": 2,
       "roster_id": 3,
       "player_id": "12522"
+    },
+    {
+      "pick_no": 117,
+      "player": "Quentin Johnston",
+      "position": "WR",
+      "team": "LAC",
+      "amount": 30,
+      "draft_slot": 7,
+      "roster_id": 5,
+      "player_id": "9754"
     }
   ]
 }
