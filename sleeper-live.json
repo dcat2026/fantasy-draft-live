@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:15:29.816Z",
-  "pick_count": 100,
+  "updated_at": "2026-09-08T03:15:42.561Z",
+  "pick_count": 101,
   "picks": [
     {
       "pick_no": 1,
@@ -1002,6 +1002,16 @@
       "draft_slot": 3,
       "roster_id": 2,
       "player_id": "11583"
+    },
+    {
+      "pick_no": 101,
+      "player": "RJ Harvey",
+      "position": "RB",
+      "team": "DEN",
+      "amount": 6,
+      "draft_slot": 4,
+      "roster_id": 4,
+      "player_id": "12489"
     }
   ]
 }
