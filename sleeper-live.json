@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T01:04:43.096Z",
-  "pick_count": 27,
+  "updated_at": "2026-09-08T01:04:53.635Z",
+  "pick_count": 28,
   "picks": [
     {
       "pick_no": 1,
@@ -272,6 +272,16 @@
       "draft_slot": 1,
       "roster_id": 10,
       "player_id": "12507"
+    },
+    {
+      "pick_no": 28,
+      "player": "Trey McBride",
+      "position": "TE",
+      "team": "ARI",
+      "amount": 125,
+      "draft_slot": 9,
+      "roster_id": 7,
+      "player_id": "8130"
     }
   ]
 }
