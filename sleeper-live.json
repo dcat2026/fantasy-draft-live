@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T02:49:21.334Z",
-  "pick_count": 79,
+  "updated_at": "2026-09-08T02:49:31.195Z",
+  "pick_count": 80,
   "picks": [
     {
       "pick_no": 1,
@@ -792,6 +792,16 @@
       "draft_slot": 9,
       "roster_id": 7,
       "player_id": "5927"
+    },
+    {
+      "pick_no": 80,
+      "player": "Tyler Shough",
+      "position": "QB",
+      "team": "NO",
+      "amount": 17,
+      "draft_slot": 1,
+      "roster_id": 10,
+      "player_id": "12545"
     }
   ]
 }
