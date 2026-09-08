@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T01:07:14.005Z",
-  "pick_count": 29,
+  "updated_at": "2026-09-08T01:07:23.971Z",
+  "pick_count": 28,
   "picks": [
     {
       "pick_no": 1,
@@ -282,16 +282,6 @@
       "draft_slot": 9,
       "roster_id": 7,
       "player_id": "8130"
-    },
-    {
-      "pick_no": 29,
-      "player": "Chase Brown",
-      "position": "RB",
-      "team": "CIN",
-      "amount": 190,
-      "draft_slot": 6,
-      "roster_id": 9,
-      "player_id": "9224"
     }
   ]
 }
