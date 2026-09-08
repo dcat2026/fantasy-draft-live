@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T02:27:35.221Z",
-  "pick_count": 65,
+  "updated_at": "2026-09-08T02:27:45.320Z",
+  "pick_count": 66,
   "picks": [
     {
       "pick_no": 1,
@@ -652,6 +652,16 @@
       "draft_slot": 1,
       "roster_id": 10,
       "player_id": "2133"
+    },
+    {
+      "pick_no": 66,
+      "player": "David Montgomery",
+      "position": "RB",
+      "team": "HOU",
+      "amount": 33,
+      "draft_slot": 9,
+      "roster_id": 7,
+      "player_id": "5892"
     }
   ]
 }
