@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:41:19.856Z",
-  "pick_count": 129,
+  "updated_at": "2026-09-08T03:41:35.714Z",
+  "pick_count": 130,
   "picks": [
     {
       "pick_no": 1,
@@ -1292,6 +1292,16 @@
       "draft_slot": 8,
       "roster_id": 1,
       "player_id": "HOU"
+    },
+    {
+      "pick_no": 130,
+      "player": "Wan'Dale Robinson",
+      "position": "WR",
+      "team": "TEN",
+      "amount": 7,
+      "draft_slot": 5,
+      "roster_id": 8,
+      "player_id": "8126"
     }
   ]
 }
