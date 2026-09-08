@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T01:38:51.763Z",
-  "pick_count": 43,
+  "updated_at": "2026-09-08T01:39:01.557Z",
+  "pick_count": 41,
   "picks": [
     {
       "pick_no": 1,
@@ -412,26 +412,6 @@
       "draft_slot": 5,
       "roster_id": 8,
       "player_id": "10229"
-    },
-    {
-      "pick_no": 42,
-      "player": "Patrick Mahomes",
-      "position": "QB",
-      "team": "KC",
-      "amount": 110,
-      "draft_slot": 2,
-      "roster_id": 3,
-      "player_id": "4046"
-    },
-    {
-      "pick_no": 43,
-      "player": "Jordan Love",
-      "position": "QB",
-      "team": "GB",
-      "amount": 45,
-      "draft_slot": 5,
-      "roster_id": 8,
-      "player_id": "6804"
     }
   ]
 }
