@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T02:30:52.991Z",
-  "pick_count": 67,
+  "updated_at": "2026-09-08T02:31:03.561Z",
+  "pick_count": 68,
   "picks": [
     {
       "pick_no": 1,
@@ -672,6 +672,16 @@
       "draft_slot": 7,
       "roster_id": 5,
       "player_id": "9511"
+    },
+    {
+      "pick_no": 68,
+      "player": "Jared Goff",
+      "position": "QB",
+      "team": "DET",
+      "amount": 23,
+      "draft_slot": 8,
+      "roster_id": 1,
+      "player_id": "3163"
     }
   ]
 }
