@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:37:34.154Z",
-  "pick_count": 122,
+  "updated_at": "2026-09-08T03:37:44.872Z",
+  "pick_count": 124,
   "picks": [
     {
       "pick_no": 1,
@@ -1222,6 +1222,26 @@
       "draft_slot": 4,
       "roster_id": 4,
       "player_id": "8132"
+    },
+    {
+      "pick_no": 123,
+      "player": "Jordan Mason",
+      "position": "RB",
+      "team": "MIN",
+      "amount": 18,
+      "draft_slot": 10,
+      "roster_id": 6,
+      "player_id": "8408"
+    },
+    {
+      "pick_no": 124,
+      "player": "Jordan Addison",
+      "position": "WR",
+      "team": "MIN",
+      "amount": 2,
+      "draft_slot": 6,
+      "roster_id": 9,
+      "player_id": "9756"
     }
   ]
 }
