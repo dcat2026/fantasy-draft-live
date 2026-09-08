@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T02:28:26.410Z",
-  "pick_count": 66,
+  "updated_at": "2026-09-08T02:28:36.956Z",
+  "pick_count": 67,
   "picks": [
     {
       "pick_no": 1,
@@ -662,6 +662,16 @@
       "draft_slot": 9,
       "roster_id": 7,
       "player_id": "5892"
+    },
+    {
+      "pick_no": 67,
+      "player": "Keaton Mitchell",
+      "position": "RB",
+      "team": "LAC",
+      "amount": 1,
+      "draft_slot": 7,
+      "roster_id": 5,
+      "player_id": "9511"
     }
   ]
 }
