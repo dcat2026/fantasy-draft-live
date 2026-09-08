@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:14:20.655Z",
-  "pick_count": 99,
+  "updated_at": "2026-09-08T03:14:30.601Z",
+  "pick_count": 100,
   "picks": [
     {
       "pick_no": 1,
@@ -992,6 +992,16 @@
       "draft_slot": 9,
       "roster_id": 7,
       "player_id": "7021"
+    },
+    {
+      "pick_no": 100,
+      "player": "Jonathon Brooks",
+      "position": "RB",
+      "team": "CAR",
+      "amount": 7,
+      "draft_slot": 3,
+      "roster_id": 2,
+      "player_id": "11583"
     }
   ]
 }
