@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T01:36:42.546Z",
-  "pick_count": 39,
+  "updated_at": "2026-09-08T01:36:52.052Z",
+  "pick_count": 41,
   "picks": [
     {
       "pick_no": 1,
@@ -392,6 +392,26 @@
       "draft_slot": 9,
       "roster_id": 7,
       "player_id": "12508"
+    },
+    {
+      "pick_no": 40,
+      "player": "Malik Nabers",
+      "position": "WR",
+      "team": "NYG",
+      "amount": 126,
+      "draft_slot": 4,
+      "roster_id": 4,
+      "player_id": "11632"
+    },
+    {
+      "pick_no": 41,
+      "player": "Rashee Rice",
+      "position": "WR",
+      "team": "KC",
+      "amount": 107,
+      "draft_slot": 5,
+      "roster_id": 8,
+      "player_id": "10229"
     }
   ]
 }
