@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:28:59.704Z",
-  "pick_count": 114,
+  "updated_at": "2026-09-08T03:29:09.337Z",
+  "pick_count": 115,
   "picks": [
     {
       "pick_no": 1,
@@ -1142,6 +1142,16 @@
       "draft_slot": 10,
       "roster_id": 6,
       "player_id": "6806"
+    },
+    {
+      "pick_no": 115,
+      "player": "De'Zhaun Stribling",
+      "position": "WR",
+      "team": "SF",
+      "amount": 18,
+      "draft_slot": 3,
+      "roster_id": 2,
+      "player_id": "13417"
     }
   ]
 }
