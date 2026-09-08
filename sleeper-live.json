@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:41:46.025Z",
-  "pick_count": 131,
+  "updated_at": "2026-09-08T03:41:55.638Z",
+  "pick_count": 124,
   "picks": [
     {
       "pick_no": 1,
@@ -1242,76 +1242,6 @@
       "draft_slot": 6,
       "roster_id": 9,
       "player_id": "9756"
-    },
-    {
-      "pick_no": 125,
-      "player": "Isaiah Likely",
-      "position": "TE",
-      "team": "NYG",
-      "amount": 5,
-      "draft_slot": 3,
-      "roster_id": 2,
-      "player_id": "8131"
-    },
-    {
-      "pick_no": 126,
-      "player": "Michael Pittman",
-      "position": "WR",
-      "team": "PIT",
-      "amount": 6,
-      "draft_slot": 2,
-      "roster_id": 3,
-      "player_id": "6819"
-    },
-    {
-      "pick_no": 127,
-      "player": "Rachaad White",
-      "position": "RB",
-      "team": "WAS",
-      "amount": 1,
-      "draft_slot": 7,
-      "roster_id": 5,
-      "player_id": "8136"
-    },
-    {
-      "pick_no": 128,
-      "player": "Seattle Seahawks",
-      "position": "DEF",
-      "team": "SEA",
-      "amount": 2,
-      "draft_slot": 2,
-      "roster_id": 3,
-      "player_id": "SEA"
-    },
-    {
-      "pick_no": 129,
-      "player": "Houston Texans",
-      "position": "DEF",
-      "team": "HOU",
-      "amount": 7,
-      "draft_slot": 8,
-      "roster_id": 1,
-      "player_id": "HOU"
-    },
-    {
-      "pick_no": 130,
-      "player": "Wan'Dale Robinson",
-      "position": "WR",
-      "team": "TEN",
-      "amount": 7,
-      "draft_slot": 5,
-      "roster_id": 8,
-      "player_id": "8126"
-    },
-    {
-      "pick_no": 131,
-      "player": "Los Angeles Rams",
-      "position": "DEF",
-      "team": "LAR",
-      "amount": 16,
-      "draft_slot": 4,
-      "roster_id": 4,
-      "player_id": "LAR"
     }
   ]
 }
