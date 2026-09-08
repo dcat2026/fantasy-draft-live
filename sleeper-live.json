@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:24:06.009Z",
-  "pick_count": 108,
+  "updated_at": "2026-09-08T03:24:16.289Z",
+  "pick_count": 109,
   "picks": [
     {
       "pick_no": 1,
@@ -1082,6 +1082,16 @@
       "draft_slot": 7,
       "roster_id": 5,
       "player_id": "5870"
+    },
+    {
+      "pick_no": 109,
+      "player": "Jayden Reed",
+      "position": "WR",
+      "team": "GB",
+      "amount": 1,
+      "draft_slot": 9,
+      "roster_id": 7,
+      "player_id": "10222"
     }
   ]
 }
