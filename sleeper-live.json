@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:44:01.640Z",
-  "pick_count": 133,
+  "updated_at": "2026-09-08T03:44:11.606Z",
+  "pick_count": 134,
   "picks": [
     {
       "pick_no": 1,
@@ -1332,6 +1332,16 @@
       "draft_slot": 3,
       "roster_id": 2,
       "player_id": "13293"
+    },
+    {
+      "pick_no": 134,
+      "player": "Mike Washington",
+      "position": "RB",
+      "team": "LV",
+      "amount": 3,
+      "draft_slot": 6,
+      "roster_id": 9,
+      "player_id": "13305"
     }
   ]
 }
