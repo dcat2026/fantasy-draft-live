@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T00:50:08.636Z",
-  "pick_count": 21,
+  "updated_at": "2026-09-08T00:50:18.382Z",
+  "pick_count": 22,
   "picks": [
     {
       "pick_no": 1,
@@ -212,6 +212,16 @@
       "draft_slot": 9,
       "roster_id": 7,
       "player_id": "9226"
+    },
+    {
+      "pick_no": 22,
+      "player": "Jayden Daniels",
+      "position": "QB",
+      "team": "WAS",
+      "amount": 153,
+      "draft_slot": 7,
+      "roster_id": 5,
+      "player_id": "11566"
     }
   ]
 }
