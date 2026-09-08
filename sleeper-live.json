@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T00:14:03.505Z",
-  "pick_count": 5,
+  "updated_at": "2026-09-08T00:14:13.794Z",
+  "pick_count": 3,
   "picks": [
     {
       "pick_no": 1,
@@ -32,26 +32,6 @@
       "draft_slot": 1,
       "roster_id": 10,
       "player_id": "8112"
-    },
-    {
-      "pick_no": 4,
-      "player": "Amon-Ra St. Brown",
-      "position": "WR",
-      "team": "DET",
-      "amount": 195,
-      "draft_slot": 9,
-      "roster_id": 7,
-      "player_id": "7547"
-    },
-    {
-      "pick_no": 5,
-      "player": "Lamar Jackson",
-      "position": "QB",
-      "team": "BAL",
-      "amount": 219,
-      "draft_slot": 6,
-      "roster_id": 9,
-      "player_id": "4881"
     }
   ]
 }
