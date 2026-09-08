@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:06:53.085Z",
-  "pick_count": 91,
+  "updated_at": "2026-09-08T03:07:02.959Z",
+  "pick_count": 92,
   "picks": [
     {
       "pick_no": 1,
@@ -912,6 +912,16 @@
       "draft_slot": 10,
       "roster_id": 6,
       "player_id": "10236"
+    },
+    {
+      "pick_no": 92,
+      "player": "Brian Thomas",
+      "position": "WR",
+      "team": "JAX",
+      "amount": 17,
+      "draft_slot": 3,
+      "roster_id": 2,
+      "player_id": "11631"
     }
   ]
 }
