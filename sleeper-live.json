@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T02:12:00.808Z",
-  "pick_count": 56,
+  "updated_at": "2026-09-08T02:12:10.190Z",
+  "pick_count": 57,
   "picks": [
     {
       "pick_no": 1,
@@ -562,6 +562,16 @@
       "draft_slot": 4,
       "roster_id": 4,
       "player_id": "8146"
+    },
+    {
+      "pick_no": 57,
+      "player": "TreVeyon Henderson",
+      "position": "RB",
+      "team": "NE",
+      "amount": 11,
+      "draft_slot": 5,
+      "roster_id": 8,
+      "player_id": "12529"
     }
   ]
 }
