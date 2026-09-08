@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T01:38:30.510Z",
-  "pick_count": 42,
+  "updated_at": "2026-09-08T01:38:40.706Z",
+  "pick_count": 43,
   "picks": [
     {
       "pick_no": 1,
@@ -422,6 +422,16 @@
       "draft_slot": 2,
       "roster_id": 3,
       "player_id": "4046"
+    },
+    {
+      "pick_no": 43,
+      "player": "Jordan Love",
+      "position": "QB",
+      "team": "GB",
+      "amount": 45,
+      "draft_slot": 5,
+      "roster_id": 8,
+      "player_id": "6804"
     }
   ]
 }
