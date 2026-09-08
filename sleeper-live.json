@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T02:04:03.154Z",
-  "pick_count": 55,
+  "updated_at": "2026-09-08T02:04:13.018Z",
+  "pick_count": 54,
   "picks": [
     {
       "pick_no": 1,
@@ -542,16 +542,6 @@
       "draft_slot": 3,
       "roster_id": 2,
       "player_id": "12514"
-    },
-    {
-      "pick_no": 55,
-      "player": "Zay Flowers",
-      "position": "WR",
-      "team": "BAL",
-      "amount": 61,
-      "draft_slot": 8,
-      "roster_id": 1,
-      "player_id": "9997"
     }
   ]
 }
