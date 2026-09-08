@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T00:24:13.642Z",
-  "pick_count": 10,
+  "updated_at": "2026-09-08T00:24:23.383Z",
+  "pick_count": 11,
   "picks": [
     {
       "pick_no": 1,
@@ -102,6 +102,16 @@
       "draft_slot": 5,
       "roster_id": 8,
       "player_id": "12527"
+    },
+    {
+      "pick_no": 11,
+      "player": "Drake Maye",
+      "position": "QB",
+      "team": "NE",
+      "amount": 153,
+      "draft_slot": 2,
+      "roster_id": 3,
+      "player_id": "11564"
     }
   ]
 }
