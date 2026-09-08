@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T01:33:58.873Z",
-  "pick_count": 39,
+  "updated_at": "2026-09-08T01:34:08.493Z",
+  "pick_count": 40,
   "picks": [
     {
       "pick_no": 1,
@@ -392,6 +392,16 @@
       "draft_slot": 9,
       "roster_id": 7,
       "player_id": "12508"
+    },
+    {
+      "pick_no": 40,
+      "player": "Malik Nabers",
+      "position": "WR",
+      "team": "NYG",
+      "amount": 126,
+      "draft_slot": 4,
+      "roster_id": 4,
+      "player_id": "11632"
     }
   ]
 }
