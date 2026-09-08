@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T02:26:04.091Z",
-  "pick_count": 64,
+  "updated_at": "2026-09-08T02:26:13.728Z",
+  "pick_count": 65,
   "picks": [
     {
       "pick_no": 1,
@@ -642,6 +642,16 @@
       "draft_slot": 5,
       "roster_id": 8,
       "player_id": "11635"
+    },
+    {
+      "pick_no": 65,
+      "player": "Davante Adams",
+      "position": "WR",
+      "team": "LAR",
+      "amount": 38,
+      "draft_slot": 1,
+      "roster_id": 10,
+      "player_id": "2133"
     }
   ]
 }
