@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T01:49:29.418Z",
-  "pick_count": 47,
+  "updated_at": "2026-09-08T01:49:39.289Z",
+  "pick_count": 48,
   "picks": [
     {
       "pick_no": 1,
@@ -472,6 +472,16 @@
       "draft_slot": 4,
       "roster_id": 4,
       "player_id": "8155"
+    },
+    {
+      "pick_no": 48,
+      "player": "Javonte Williams",
+      "position": "RB",
+      "team": "DAL",
+      "amount": 158,
+      "draft_slot": 3,
+      "roster_id": 2,
+      "player_id": "7588"
     }
   ]
 }
