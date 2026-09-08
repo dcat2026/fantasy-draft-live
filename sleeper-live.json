@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T02:39:00.489Z",
-  "pick_count": 73,
+  "updated_at": "2026-09-08T02:39:11.238Z",
+  "pick_count": 72,
   "picks": [
     {
       "pick_no": 1,
@@ -722,16 +722,6 @@
       "draft_slot": 5,
       "roster_id": 8,
       "player_id": "12518"
-    },
-    {
-      "pick_no": 73,
-      "player": "D'Andre Swift",
-      "position": "RB",
-      "team": "CHI",
-      "amount": 80,
-      "draft_slot": 5,
-      "roster_id": 8,
-      "player_id": "6790"
     }
   ]
 }
