@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:34:32.707Z",
-  "pick_count": 121,
+  "updated_at": "2026-09-08T03:34:43.130Z",
+  "pick_count": 120,
   "picks": [
     {
       "pick_no": 1,
@@ -1202,16 +1202,6 @@
       "draft_slot": 10,
       "roster_id": 6,
       "player_id": "7594"
-    },
-    {
-      "pick_no": 121,
-      "player": "Jacory Croskey-Merritt",
-      "position": "RB",
-      "team": "WAS",
-      "amount": 2,
-      "draft_slot": 6,
-      "roster_id": 9,
-      "player_id": "12533"
     }
   ]
 }
