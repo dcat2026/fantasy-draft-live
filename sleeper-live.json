@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:47:31.017Z",
-  "pick_count": 139,
+  "updated_at": "2026-09-08T03:47:40.985Z",
+  "pick_count": 141,
   "picks": [
     {
       "pick_no": 1,
@@ -1392,6 +1392,26 @@
       "draft_slot": 3,
       "roster_id": 2,
       "player_id": "PHI"
+    },
+    {
+      "pick_no": 140,
+      "player": "Fernando Mendoza",
+      "position": "QB",
+      "team": "LV",
+      "amount": 1,
+      "draft_slot": 3,
+      "roster_id": 2,
+      "player_id": "13269"
+    },
+    {
+      "pick_no": 141,
+      "player": "Rashid Shaheed",
+      "position": "WR",
+      "team": "SEA",
+      "amount": 7,
+      "draft_slot": 4,
+      "roster_id": 4,
+      "player_id": "8676"
     }
   ]
 }
