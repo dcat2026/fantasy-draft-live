@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T00:21:32.270Z",
-  "pick_count": 9,
+  "updated_at": "2026-09-08T00:21:42.551Z",
+  "pick_count": 7,
   "picks": [
     {
       "pick_no": 1,
@@ -72,26 +72,6 @@
       "draft_slot": 7,
       "roster_id": 5,
       "player_id": "4866"
-    },
-    {
-      "pick_no": 8,
-      "player": "Ja'Marr Chase",
-      "position": "WR",
-      "team": "CIN",
-      "amount": 223,
-      "draft_slot": 5,
-      "roster_id": 8,
-      "player_id": "7564"
-    },
-    {
-      "pick_no": 9,
-      "player": "Bijan Robinson",
-      "position": "RB",
-      "team": "ATL",
-      "amount": 275,
-      "draft_slot": 4,
-      "roster_id": 4,
-      "player_id": "9509"
     }
   ]
 }
