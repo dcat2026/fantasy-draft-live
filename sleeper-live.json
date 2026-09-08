@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T02:48:22.396Z",
-  "pick_count": 78,
+  "updated_at": "2026-09-08T02:48:32.213Z",
+  "pick_count": 79,
   "picks": [
     {
       "pick_no": 1,
@@ -782,6 +782,16 @@
       "draft_slot": 10,
       "roster_id": 6,
       "player_id": "12519"
+    },
+    {
+      "pick_no": 79,
+      "player": "Terry McLaurin",
+      "position": "WR",
+      "team": "WAS",
+      "amount": 20,
+      "draft_slot": 9,
+      "roster_id": 7,
+      "player_id": "5927"
     }
   ]
 }
