@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T01:36:03.251Z",
-  "pick_count": 40,
+  "updated_at": "2026-09-08T01:36:12.636Z",
+  "pick_count": 41,
   "picks": [
     {
       "pick_no": 1,
@@ -402,6 +402,16 @@
       "draft_slot": 4,
       "roster_id": 4,
       "player_id": "11632"
+    },
+    {
+      "pick_no": 41,
+      "player": "Rashee Rice",
+      "position": "WR",
+      "team": "KC",
+      "amount": 107,
+      "draft_slot": 5,
+      "roster_id": 8,
+      "player_id": "10229"
     }
   ]
 }
