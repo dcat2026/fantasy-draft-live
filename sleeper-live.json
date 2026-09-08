@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T01:31:05.373Z",
-  "pick_count": 38,
+  "updated_at": "2026-09-08T01:31:15.173Z",
+  "pick_count": 39,
   "picks": [
     {
       "pick_no": 1,
@@ -382,6 +382,16 @@
       "draft_slot": 8,
       "roster_id": 1,
       "player_id": "8183"
+    },
+    {
+      "pick_no": 39,
+      "player": "Jaxson Dart",
+      "position": "QB",
+      "team": "NYG",
+      "amount": 135,
+      "draft_slot": 9,
+      "roster_id": 7,
+      "player_id": "12508"
     }
   ]
 }
