@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T00:18:57.616Z",
-  "pick_count": 6,
+  "updated_at": "2026-09-08T00:19:07.485Z",
+  "pick_count": 8,
   "picks": [
     {
       "pick_no": 1,
@@ -62,6 +62,26 @@
       "draft_slot": 1,
       "roster_id": 10,
       "player_id": "6813"
+    },
+    {
+      "pick_no": 7,
+      "player": "Saquon Barkley",
+      "position": "RB",
+      "team": "PHI",
+      "amount": 202,
+      "draft_slot": 7,
+      "roster_id": 5,
+      "player_id": "4866"
+    },
+    {
+      "pick_no": 8,
+      "player": "Ja'Marr Chase",
+      "position": "WR",
+      "team": "CIN",
+      "amount": 223,
+      "draft_slot": 5,
+      "roster_id": 8,
+      "player_id": "7564"
     }
   ]
 }
