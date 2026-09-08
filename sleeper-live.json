@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:33:26.928Z",
-  "pick_count": 119,
+  "updated_at": "2026-09-08T03:33:37.537Z",
+  "pick_count": 120,
   "picks": [
     {
       "pick_no": 1,
@@ -1192,6 +1192,16 @@
       "draft_slot": 5,
       "roster_id": 8,
       "player_id": "9228"
+    },
+    {
+      "pick_no": 120,
+      "player": "Chuba Hubbard",
+      "position": "RB",
+      "team": "CAR",
+      "amount": 15,
+      "draft_slot": 10,
+      "roster_id": 6,
+      "player_id": "7594"
     }
   ]
 }
