@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:36:09.658Z",
-  "pick_count": 122,
+  "updated_at": "2026-09-08T03:36:20.172Z",
+  "pick_count": 123,
   "picks": [
     {
       "pick_no": 1,
@@ -1222,6 +1222,16 @@
       "draft_slot": 4,
       "roster_id": 4,
       "player_id": "8132"
+    },
+    {
+      "pick_no": 123,
+      "player": "Jordan Mason",
+      "position": "RB",
+      "team": "MIN",
+      "amount": 18,
+      "draft_slot": 10,
+      "roster_id": 6,
+      "player_id": "8408"
     }
   ]
 }
