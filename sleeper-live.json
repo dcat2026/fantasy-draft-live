@@ -1,6 +1,27 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-07T23:32:50.899Z",
-  "pick_count": 0,
-  "picks": []
+  "updated_at": "2026-09-08T00:09:43.731Z",
+  "pick_count": 2,
+  "picks": [
+    {
+      "pick_no": 1,
+      "player": "Brock Bowers",
+      "position": "TE",
+      "team": "LV",
+      "amount": 104,
+      "draft_slot": 8,
+      "roster_id": 1,
+      "player_id": "11604"
+    },
+    {
+      "pick_no": 2,
+      "player": "Puka Nacua",
+      "position": "WR",
+      "team": "LAR",
+      "amount": 188,
+      "draft_slot": 1,
+      "roster_id": 10,
+      "player_id": "9493"
+    }
+  ]
 }
