@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T02:55:16.593Z",
-  "pick_count": 85,
+  "updated_at": "2026-09-08T02:55:26.901Z",
+  "pick_count": 84,
   "picks": [
     {
       "pick_no": 1,
@@ -842,16 +842,6 @@
       "draft_slot": 9,
       "roster_id": 7,
       "player_id": "2216"
-    },
-    {
-      "pick_no": 85,
-      "player": "Parker Washington",
-      "position": "WR",
-      "team": "JAX",
-      "amount": 40,
-      "draft_slot": 10,
-      "roster_id": 6,
-      "player_id": "9487"
     }
   ]
 }
