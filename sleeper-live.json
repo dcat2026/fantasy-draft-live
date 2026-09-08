@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:31:21.466Z",
-  "pick_count": 117,
+  "updated_at": "2026-09-08T03:31:31.754Z",
+  "pick_count": 118,
   "picks": [
     {
       "pick_no": 1,
@@ -1172,6 +1172,16 @@
       "draft_slot": 7,
       "roster_id": 5,
       "player_id": "9754"
+    },
+    {
+      "pick_no": 118,
+      "player": "Harold Fannin",
+      "position": "TE",
+      "team": "CLE",
+      "amount": 2,
+      "draft_slot": 1,
+      "roster_id": 10,
+      "player_id": "12506"
     }
   ]
 }
