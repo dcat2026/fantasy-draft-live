@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T02:12:58.335Z",
-  "pick_count": 57,
+  "updated_at": "2026-09-08T02:13:07.999Z",
+  "pick_count": 58,
   "picks": [
     {
       "pick_no": 1,
@@ -572,6 +572,16 @@
       "draft_slot": 5,
       "roster_id": 8,
       "player_id": "12529"
+    },
+    {
+      "pick_no": 58,
+      "player": "Colston Loveland",
+      "position": "TE",
+      "team": "CHI",
+      "amount": 36,
+      "draft_slot": 2,
+      "roster_id": 3,
+      "player_id": "12517"
     }
   ]
 }
