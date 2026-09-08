@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T00:59:33.906Z",
-  "pick_count": 26,
+  "updated_at": "2026-09-08T00:59:43.782Z",
+  "pick_count": 27,
   "picks": [
     {
       "pick_no": 1,
@@ -262,6 +262,16 @@
       "draft_slot": 9,
       "roster_id": 7,
       "player_id": "6904"
+    },
+    {
+      "pick_no": 27,
+      "player": "Omarion Hampton",
+      "position": "RB",
+      "team": "LAC",
+      "amount": 191,
+      "draft_slot": 1,
+      "roster_id": 10,
+      "player_id": "12507"
     }
   ]
 }
