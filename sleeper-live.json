@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T01:54:09.046Z",
-  "pick_count": 50,
+  "updated_at": "2026-09-08T01:54:18.748Z",
+  "pick_count": 51,
   "picks": [
     {
       "pick_no": 1,
@@ -502,6 +502,16 @@
       "draft_slot": 5,
       "roster_id": 8,
       "player_id": "12526"
+    },
+    {
+      "pick_no": 51,
+      "player": "Cam Skattebo",
+      "position": "RB",
+      "team": "NYG",
+      "amount": 65,
+      "draft_slot": 5,
+      "roster_id": 8,
+      "player_id": "12481"
     }
   ]
 }
