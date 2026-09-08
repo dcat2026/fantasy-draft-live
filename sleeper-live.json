@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T02:18:40.092Z",
-  "pick_count": 60,
+  "updated_at": "2026-09-08T02:18:50.251Z",
+  "pick_count": 61,
   "picks": [
     {
       "pick_no": 1,
@@ -602,6 +602,16 @@
       "draft_slot": 4,
       "roster_id": 4,
       "player_id": "4892"
+    },
+    {
+      "pick_no": 61,
+      "player": "Jadarian Price",
+      "position": "RB",
+      "team": "SEA",
+      "amount": 51,
+      "draft_slot": 6,
+      "roster_id": 9,
+      "player_id": "13286"
     }
   ]
 }
