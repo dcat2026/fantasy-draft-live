@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T01:42:30.517Z",
-  "pick_count": 45,
+  "updated_at": "2026-09-08T01:42:40.491Z",
+  "pick_count": 44,
   "picks": [
     {
       "pick_no": 1,
@@ -442,16 +442,6 @@
       "draft_slot": 10,
       "roster_id": 6,
       "player_id": "3198"
-    },
-    {
-      "pick_no": 45,
-      "player": "Bo Nix",
-      "position": "QB",
-      "team": "DEN",
-      "amount": 45,
-      "draft_slot": 4,
-      "roster_id": 4,
-      "player_id": "11563"
     }
   ]
 }
