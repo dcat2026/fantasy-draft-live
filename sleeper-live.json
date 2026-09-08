@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T01:05:13.970Z",
-  "pick_count": 26,
+  "updated_at": "2026-09-08T01:05:31.083Z",
+  "pick_count": 28,
   "picks": [
     {
       "pick_no": 1,
@@ -262,6 +262,26 @@
       "draft_slot": 9,
       "roster_id": 7,
       "player_id": "6904"
+    },
+    {
+      "pick_no": 27,
+      "player": "Omarion Hampton",
+      "position": "RB",
+      "team": "LAC",
+      "amount": 193,
+      "draft_slot": 1,
+      "roster_id": 10,
+      "player_id": "12507"
+    },
+    {
+      "pick_no": 28,
+      "player": "Trey McBride",
+      "position": "TE",
+      "team": "ARI",
+      "amount": 125,
+      "draft_slot": 9,
+      "roster_id": 7,
+      "player_id": "8130"
     }
   ]
 }
