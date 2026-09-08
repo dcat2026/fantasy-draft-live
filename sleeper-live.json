@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T01:51:50.021Z",
-  "pick_count": 49,
+  "updated_at": "2026-09-08T01:52:00.416Z",
+  "pick_count": 48,
   "picks": [
     {
       "pick_no": 1,
@@ -482,16 +482,6 @@
       "draft_slot": 3,
       "roster_id": 2,
       "player_id": "7588"
-    },
-    {
-      "pick_no": 49,
-      "player": "MarShawn Lloyd",
-      "position": "RB",
-      "team": "GB",
-      "amount": 41,
-      "draft_slot": 2,
-      "roster_id": 3,
-      "player_id": "11581"
     }
   ]
 }
