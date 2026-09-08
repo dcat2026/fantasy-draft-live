@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:01:59.146Z",
-  "pick_count": 87,
+  "updated_at": "2026-09-08T03:02:11.270Z",
+  "pick_count": 88,
   "picks": [
     {
       "pick_no": 1,
@@ -872,6 +872,16 @@
       "draft_slot": 8,
       "roster_id": 1,
       "player_id": "7611"
+    },
+    {
+      "pick_no": 88,
+      "player": "Jaylen Waddle",
+      "position": "WR",
+      "team": "DEN",
+      "amount": 91,
+      "draft_slot": 8,
+      "roster_id": 1,
+      "player_id": "7526"
     }
   ]
 }
