@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T02:16:43.998Z",
-  "pick_count": 59,
+  "updated_at": "2026-09-08T02:16:52.698Z",
+  "pick_count": 60,
   "picks": [
     {
       "pick_no": 1,
@@ -592,6 +592,16 @@
       "draft_slot": 10,
       "roster_id": 6,
       "player_id": "11584"
+    },
+    {
+      "pick_no": 60,
+      "player": "Baker Mayfield",
+      "position": "QB",
+      "team": "TB",
+      "amount": 21,
+      "draft_slot": 4,
+      "roster_id": 4,
+      "player_id": "4892"
     }
   ]
 }
