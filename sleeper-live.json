@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T00:20:37.720Z",
-  "pick_count": 8,
+  "updated_at": "2026-09-08T00:20:47.476Z",
+  "pick_count": 9,
   "picks": [
     {
       "pick_no": 1,
@@ -82,6 +82,16 @@
       "draft_slot": 5,
       "roster_id": 8,
       "player_id": "7564"
+    },
+    {
+      "pick_no": 9,
+      "player": "Bijan Robinson",
+      "position": "RB",
+      "team": "ATL",
+      "amount": 275,
+      "draft_slot": 4,
+      "roster_id": 4,
+      "player_id": "9509"
     }
   ]
 }
