@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T00:51:34.185Z",
-  "pick_count": 22,
+  "updated_at": "2026-09-08T00:51:43.970Z",
+  "pick_count": 23,
   "picks": [
     {
       "pick_no": 1,
@@ -222,6 +222,16 @@
       "draft_slot": 7,
       "roster_id": 5,
       "player_id": "11566"
+    },
+    {
+      "pick_no": 23,
+      "player": "Justin Herbert",
+      "position": "QB",
+      "team": "LAC",
+      "amount": 177,
+      "draft_slot": 10,
+      "roster_id": 6,
+      "player_id": "6797"
     }
   ]
 }
