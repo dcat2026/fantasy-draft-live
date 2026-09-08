@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T00:39:25.181Z",
-  "pick_count": 17,
+  "updated_at": "2026-09-08T00:39:34.323Z",
+  "pick_count": 18,
   "picks": [
     {
       "pick_no": 1,
@@ -172,6 +172,16 @@
       "draft_slot": 2,
       "roster_id": 3,
       "player_id": "5859"
+    },
+    {
+      "pick_no": 18,
+      "player": "Jaxon Smith-Njigba",
+      "position": "WR",
+      "team": "SEA",
+      "amount": 231,
+      "draft_slot": 7,
+      "roster_id": 5,
+      "player_id": "9488"
     }
   ]
 }
