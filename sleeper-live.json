@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:16:45.331Z",
-  "pick_count": 102,
+  "updated_at": "2026-09-08T03:16:56.467Z",
+  "pick_count": 101,
   "picks": [
     {
       "pick_no": 1,
@@ -1012,16 +1012,6 @@
       "draft_slot": 4,
       "roster_id": 4,
       "player_id": "12489"
-    },
-    {
-      "pick_no": 102,
-      "player": "Chris Godwin",
-      "position": "WR",
-      "team": "TB",
-      "amount": 33,
-      "draft_slot": 8,
-      "roster_id": 1,
-      "player_id": "4037"
     }
   ]
 }
