@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T00:30:13.572Z",
-  "pick_count": 13,
+  "updated_at": "2026-09-08T00:30:23.495Z",
+  "pick_count": 14,
   "picks": [
     {
       "pick_no": 1,
@@ -132,6 +132,16 @@
       "draft_slot": 10,
       "roster_id": 6,
       "player_id": "6794"
+    },
+    {
+      "pick_no": 14,
+      "player": "Jahmyr Gibbs",
+      "position": "RB",
+      "team": "DET",
+      "amount": 293,
+      "draft_slot": 4,
+      "roster_id": 4,
+      "player_id": "9221"
     }
   ]
 }
