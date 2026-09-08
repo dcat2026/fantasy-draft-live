@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T02:40:10.855Z",
-  "pick_count": 74,
+  "updated_at": "2026-09-08T02:40:21.303Z",
+  "pick_count": 73,
   "picks": [
     {
       "pick_no": 1,
@@ -732,16 +732,6 @@
       "draft_slot": 5,
       "roster_id": 8,
       "player_id": "6790"
-    },
-    {
-      "pick_no": 74,
-      "player": "Sam LaPorta",
-      "position": "TE",
-      "team": "DET",
-      "amount": 16,
-      "draft_slot": 4,
-      "roster_id": 4,
-      "player_id": "10859"
     }
   ]
 }
