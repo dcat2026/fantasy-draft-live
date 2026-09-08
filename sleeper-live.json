@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T01:46:51.820Z",
-  "pick_count": 47,
+  "updated_at": "2026-09-08T01:47:02.093Z",
+  "pick_count": 45,
   "picks": [
     {
       "pick_no": 1,
@@ -452,26 +452,6 @@
       "draft_slot": 4,
       "roster_id": 4,
       "player_id": "11563"
-    },
-    {
-      "pick_no": 46,
-      "player": "DeVonta Smith",
-      "position": "WR",
-      "team": "PHI",
-      "amount": 126,
-      "draft_slot": 8,
-      "roster_id": 1,
-      "player_id": "7525"
-    },
-    {
-      "pick_no": 47,
-      "player": "Breece Hall",
-      "position": "RB",
-      "team": "NYJ",
-      "amount": 70,
-      "draft_slot": 4,
-      "roster_id": 4,
-      "player_id": "8155"
     }
   ]
 }
