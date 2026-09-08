@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T00:47:25.818Z",
-  "pick_count": 21,
+  "updated_at": "2026-09-08T00:47:36.856Z",
+  "pick_count": 20,
   "picks": [
     {
       "pick_no": 1,
@@ -202,16 +202,6 @@
       "draft_slot": 3,
       "roster_id": 2,
       "player_id": "6770"
-    },
-    {
-      "pick_no": 21,
-      "player": "De'Von Achane",
-      "position": "RB",
-      "team": "MIA",
-      "amount": 201,
-      "draft_slot": 9,
-      "roster_id": 7,
-      "player_id": "9226"
     }
   ]
 }
