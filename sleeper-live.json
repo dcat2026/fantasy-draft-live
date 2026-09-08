@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:10:52.099Z",
-  "pick_count": 92,
+  "updated_at": "2026-09-08T03:11:02.803Z",
+  "pick_count": 96,
   "picks": [
     {
       "pick_no": 1,
@@ -922,6 +922,46 @@
       "draft_slot": 3,
       "roster_id": 2,
       "player_id": "11631"
+    },
+    {
+      "pick_no": 93,
+      "player": "Jaylen Warren",
+      "position": "RB",
+      "team": "PIT",
+      "amount": 5,
+      "draft_slot": 8,
+      "roster_id": 1,
+      "player_id": "8228"
+    },
+    {
+      "pick_no": 94,
+      "player": "Michael Wilson",
+      "position": "WR",
+      "team": "ARI",
+      "amount": 14,
+      "draft_slot": 4,
+      "roster_id": 4,
+      "player_id": "10232"
+    },
+    {
+      "pick_no": 95,
+      "player": "Carnell Tate",
+      "position": "WR",
+      "team": "TEN",
+      "amount": 8,
+      "draft_slot": 2,
+      "roster_id": 3,
+      "player_id": "13279"
+    },
+    {
+      "pick_no": 96,
+      "player": "Travis Kelce",
+      "position": "TE",
+      "team": "KC",
+      "amount": 5,
+      "draft_slot": 6,
+      "roster_id": 9,
+      "player_id": "1466"
     }
   ]
 }
