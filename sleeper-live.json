@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:44:45.693Z",
-  "pick_count": 134,
+  "updated_at": "2026-09-08T03:44:55.695Z",
+  "pick_count": 136,
   "picks": [
     {
       "pick_no": 1,
@@ -1342,6 +1342,26 @@
       "draft_slot": 6,
       "roster_id": 9,
       "player_id": "13305"
+    },
+    {
+      "pick_no": 135,
+      "player": "Alvin Kamara",
+      "position": "RB",
+      "team": "NO",
+      "amount": 3,
+      "draft_slot": 7,
+      "roster_id": 5,
+      "player_id": "4035"
+    },
+    {
+      "pick_no": 136,
+      "player": "Jordyn Tyson",
+      "position": "WR",
+      "team": "NO",
+      "amount": 7,
+      "draft_slot": 8,
+      "roster_id": 1,
+      "player_id": "13281"
     }
   ]
 }
