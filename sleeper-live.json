@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:47:40.985Z",
-  "pick_count": 141,
+  "updated_at": "2026-09-08T11:38:59.176Z",
+  "pick_count": 160,
   "picks": [
     {
       "pick_no": 1,
@@ -1412,6 +1412,196 @@
       "draft_slot": 4,
       "roster_id": 4,
       "player_id": "8676"
+    },
+    {
+      "pick_no": 142,
+      "player": "Jacoby Brissett",
+      "position": "QB",
+      "team": "ARI",
+      "amount": 4,
+      "draft_slot": 1,
+      "roster_id": 10,
+      "player_id": "3257"
+    },
+    {
+      "pick_no": 143,
+      "player": "Cyrus Allen",
+      "position": "WR",
+      "team": "KC",
+      "amount": 1,
+      "draft_slot": 7,
+      "roster_id": 5,
+      "player_id": "13413"
+    },
+    {
+      "pick_no": 144,
+      "player": "Pittsburgh Steelers",
+      "position": "DEF",
+      "team": "PIT",
+      "amount": 1,
+      "draft_slot": 9,
+      "roster_id": 7,
+      "player_id": "PIT"
+    },
+    {
+      "pick_no": 145,
+      "player": "Josh Downs",
+      "position": "WR",
+      "team": "IND",
+      "amount": 5,
+      "draft_slot": 10,
+      "roster_id": 6,
+      "player_id": "9500"
+    },
+    {
+      "pick_no": 146,
+      "player": "Aaron Rodgers",
+      "position": "QB",
+      "team": "PIT",
+      "amount": 1,
+      "draft_slot": 1,
+      "roster_id": 10,
+      "player_id": "96"
+    },
+    {
+      "pick_no": 147,
+      "player": "Dallas Goedert",
+      "position": "TE",
+      "team": "PHI",
+      "amount": 1,
+      "draft_slot": 3,
+      "roster_id": 2,
+      "player_id": "5022"
+    },
+    {
+      "pick_no": 148,
+      "player": "Deebo Samuel",
+      "position": "WR",
+      "team": "SF",
+      "amount": 4,
+      "draft_slot": 6,
+      "roster_id": 9,
+      "player_id": "5872"
+    },
+    {
+      "pick_no": 149,
+      "player": "Los Angeles Chargers",
+      "position": "DEF",
+      "team": "LAC",
+      "amount": 3,
+      "draft_slot": 7,
+      "roster_id": 5,
+      "player_id": "LAC"
+    },
+    {
+      "pick_no": 150,
+      "player": "Juwan Johnson",
+      "position": "TE",
+      "team": "NO",
+      "amount": 2,
+      "draft_slot": 1,
+      "roster_id": 10,
+      "player_id": "7002"
+    },
+    {
+      "pick_no": 151,
+      "player": "Jakobi Meyers",
+      "position": "WR",
+      "team": "JAX",
+      "amount": 2,
+      "draft_slot": 1,
+      "roster_id": 10,
+      "player_id": "5947"
+    },
+    {
+      "pick_no": 152,
+      "player": "Matthew Golden",
+      "position": "WR",
+      "team": "GB",
+      "amount": 1,
+      "draft_slot": 3,
+      "roster_id": 2,
+      "player_id": "12501"
+    },
+    {
+      "pick_no": 153,
+      "player": "Tank Bigsby",
+      "position": "RB",
+      "team": "PHI",
+      "amount": 1,
+      "draft_slot": 6,
+      "roster_id": 9,
+      "player_id": "9225"
+    },
+    {
+      "pick_no": 154,
+      "player": "Geno Smith",
+      "position": "QB",
+      "team": "NYJ",
+      "amount": 1,
+      "draft_slot": 9,
+      "roster_id": 7,
+      "player_id": "1373"
+    },
+    {
+      "pick_no": 155,
+      "player": "Keenan Allen",
+      "position": "WR",
+      "team": "IND",
+      "amount": 1,
+      "draft_slot": 1,
+      "roster_id": 10,
+      "player_id": "1479"
+    },
+    {
+      "pick_no": 156,
+      "player": "Aaron Jones",
+      "position": "RB",
+      "team": "MIN",
+      "amount": 1,
+      "draft_slot": 6,
+      "roster_id": 9,
+      "player_id": "4199"
+    },
+    {
+      "pick_no": 157,
+      "player": "Jacob Saylors",
+      "position": "RB",
+      "team": "DET",
+      "amount": 1,
+      "draft_slot": 9,
+      "roster_id": 7,
+      "player_id": "11237"
+    },
+    {
+      "pick_no": 158,
+      "player": "Minnesota Vikings",
+      "position": "DEF",
+      "team": "MIN",
+      "amount": 1,
+      "draft_slot": 1,
+      "roster_id": 10,
+      "player_id": "MIN"
+    },
+    {
+      "pick_no": 159,
+      "player": "New England Patriots",
+      "position": "DEF",
+      "team": "NE",
+      "amount": 1,
+      "draft_slot": 6,
+      "roster_id": 9,
+      "player_id": "NE"
+    },
+    {
+      "pick_no": 160,
+      "player": "Brenton Strange",
+      "position": "TE",
+      "team": "JAX",
+      "amount": 1,
+      "draft_slot": 9,
+      "roster_id": 7,
+      "player_id": "9480"
     }
   ]
 }
