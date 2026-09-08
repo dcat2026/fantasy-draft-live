@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:12:26.851Z",
-  "pick_count": 97,
+  "updated_at": "2026-09-08T03:12:37.333Z",
+  "pick_count": 96,
   "picks": [
     {
       "pick_no": 1,
@@ -962,16 +962,6 @@
       "draft_slot": 6,
       "roster_id": 9,
       "player_id": "1466"
-    },
-    {
-      "pick_no": 97,
-      "player": "DK Metcalf",
-      "position": "WR",
-      "team": "PIT",
-      "amount": 8,
-      "draft_slot": 6,
-      "roster_id": 9,
-      "player_id": "5846"
     }
   ]
 }
