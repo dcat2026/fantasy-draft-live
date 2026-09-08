@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T00:13:53.909Z",
-  "pick_count": 4,
+  "updated_at": "2026-09-08T00:14:03.505Z",
+  "pick_count": 5,
   "picks": [
     {
       "pick_no": 1,
@@ -42,6 +42,16 @@
       "draft_slot": 9,
       "roster_id": 7,
       "player_id": "7547"
+    },
+    {
+      "pick_no": 5,
+      "player": "Lamar Jackson",
+      "position": "QB",
+      "team": "BAL",
+      "amount": 219,
+      "draft_slot": 6,
+      "roster_id": 9,
+      "player_id": "4881"
     }
   ]
 }
