@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T02:43:32.747Z",
-  "pick_count": 76,
+  "updated_at": "2026-09-08T02:43:42.387Z",
+  "pick_count": 74,
   "picks": [
     {
       "pick_no": 1,
@@ -742,26 +742,6 @@
       "draft_slot": 4,
       "roster_id": 4,
       "player_id": "10859"
-    },
-    {
-      "pick_no": 75,
-      "player": "DJ Moore",
-      "position": "WR",
-      "team": "BUF",
-      "amount": 83,
-      "draft_slot": 2,
-      "roster_id": 3,
-      "player_id": "4983"
-    },
-    {
-      "pick_no": 76,
-      "player": "Kyle Pitts",
-      "position": "TE",
-      "team": "ATL",
-      "amount": 2,
-      "draft_slot": 3,
-      "roster_id": 2,
-      "player_id": "7553"
     }
   ]
 }
