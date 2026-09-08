@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:05:09.541Z",
-  "pick_count": 88,
+  "updated_at": "2026-09-08T03:05:19.318Z",
+  "pick_count": 90,
   "picks": [
     {
       "pick_no": 1,
@@ -882,6 +882,26 @@
       "draft_slot": 8,
       "roster_id": 1,
       "player_id": "7526"
+    },
+    {
+      "pick_no": 89,
+      "player": "Bhayshul Tuten",
+      "position": "RB",
+      "team": "JAX",
+      "amount": 55,
+      "draft_slot": 2,
+      "roster_id": 3,
+      "player_id": "12490"
+    },
+    {
+      "pick_no": 90,
+      "player": "Christian Watson",
+      "position": "WR",
+      "team": "GB",
+      "amount": 46,
+      "draft_slot": 2,
+      "roster_id": 3,
+      "player_id": "8167"
     }
   ]
 }
