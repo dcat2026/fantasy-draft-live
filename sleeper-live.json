@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T01:11:48.841Z",
-  "pick_count": 31,
+  "updated_at": "2026-09-08T01:11:59.944Z",
+  "pick_count": 29,
   "picks": [
     {
       "pick_no": 1,
@@ -292,26 +292,6 @@
       "draft_slot": 6,
       "roster_id": 9,
       "player_id": "9224"
-    },
-    {
-      "pick_no": 30,
-      "player": "Nico Collins",
-      "position": "WR",
-      "team": "HOU",
-      "amount": 139,
-      "draft_slot": 1,
-      "roster_id": 10,
-      "player_id": "7569"
-    },
-    {
-      "pick_no": 31,
-      "player": "Kyren Williams",
-      "position": "RB",
-      "team": "LAR",
-      "amount": 627,
-      "draft_slot": 10,
-      "roster_id": 6,
-      "player_id": "8150"
     }
   ]
 }
