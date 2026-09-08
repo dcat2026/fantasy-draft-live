@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T02:34:17.359Z",
-  "pick_count": 69,
+  "updated_at": "2026-09-08T02:34:26.890Z",
+  "pick_count": 70,
   "picks": [
     {
       "pick_no": 1,
@@ -692,6 +692,16 @@
       "draft_slot": 2,
       "roster_id": 3,
       "player_id": "7543"
+    },
+    {
+      "pick_no": 70,
+      "player": "Quinshon Judkins",
+      "position": "RB",
+      "team": "CLE",
+      "amount": 31,
+      "draft_slot": 7,
+      "roster_id": 5,
+      "player_id": "12512"
     }
   ]
 }
