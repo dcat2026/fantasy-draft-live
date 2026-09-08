@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T00:35:20.649Z",
-  "pick_count": 15,
+  "updated_at": "2026-09-08T00:35:30.611Z",
+  "pick_count": 16,
   "picks": [
     {
       "pick_no": 1,
@@ -152,6 +152,16 @@
       "draft_slot": 3,
       "roster_id": 2,
       "player_id": "8138"
+    },
+    {
+      "pick_no": 16,
+      "player": "Josh Allen",
+      "position": "QB",
+      "team": "BUF",
+      "amount": 301,
+      "draft_slot": 6,
+      "roster_id": 9,
+      "player_id": "4984"
     }
   ]
 }
