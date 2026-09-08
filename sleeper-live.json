@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T02:53:18.873Z",
-  "pick_count": 83,
+  "updated_at": "2026-09-08T02:53:28.751Z",
+  "pick_count": 84,
   "picks": [
     {
       "pick_no": 1,
@@ -832,6 +832,16 @@
       "draft_slot": 8,
       "roster_id": 1,
       "player_id": "11620"
+    },
+    {
+      "pick_no": 84,
+      "player": "Mike Evans",
+      "position": "WR",
+      "team": "SF",
+      "amount": 40,
+      "draft_slot": 9,
+      "roster_id": 7,
+      "player_id": "2216"
     }
   ]
 }
