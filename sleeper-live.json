@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:20:39.440Z",
-  "pick_count": 105,
+  "updated_at": "2026-09-08T03:20:49.328Z",
+  "pick_count": 103,
   "picks": [
     {
       "pick_no": 1,
@@ -1032,26 +1032,6 @@
       "draft_slot": 4,
       "roster_id": 4,
       "player_id": "5045"
-    },
-    {
-      "pick_no": 104,
-      "player": "Alec Pierce",
-      "position": "WR",
-      "team": "IND",
-      "amount": 28,
-      "draft_slot": 9,
-      "roster_id": 7,
-      "player_id": "8142"
-    },
-    {
-      "pick_no": 105,
-      "player": "Kyle Monangai",
-      "position": "RB",
-      "team": "CHI",
-      "amount": 12,
-      "draft_slot": 9,
-      "roster_id": 7,
-      "player_id": "12534"
     }
   ]
 }
