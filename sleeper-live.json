@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T02:23:14.867Z",
-  "pick_count": 62,
+  "updated_at": "2026-09-08T02:23:25.118Z",
+  "pick_count": 63,
   "picks": [
     {
       "pick_no": 1,
@@ -622,6 +622,16 @@
       "draft_slot": 3,
       "roster_id": 2,
       "player_id": "421"
+    },
+    {
+      "pick_no": 63,
+      "player": "Sam Darnold",
+      "position": "QB",
+      "team": "SEA",
+      "amount": 7,
+      "draft_slot": 7,
+      "roster_id": 5,
+      "player_id": "4943"
     }
   ]
 }
