@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:39:58.545Z",
-  "pick_count": 127,
+  "updated_at": "2026-09-08T03:40:08.564Z",
+  "pick_count": 128,
   "picks": [
     {
       "pick_no": 1,
@@ -1272,6 +1272,16 @@
       "draft_slot": 7,
       "roster_id": 5,
       "player_id": "8136"
+    },
+    {
+      "pick_no": 128,
+      "player": "Seattle Seahawks",
+      "position": "DEF",
+      "team": "SEA",
+      "amount": 2,
+      "draft_slot": 2,
+      "roster_id": 3,
+      "player_id": "SEA"
     }
   ]
 }
