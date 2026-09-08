@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:21:38.995Z",
-  "pick_count": 105,
+  "updated_at": "2026-09-08T03:21:49.616Z",
+  "pick_count": 106,
   "picks": [
     {
       "pick_no": 1,
@@ -1052,6 +1052,16 @@
       "draft_slot": 9,
       "roster_id": 7,
       "player_id": "12534"
+    },
+    {
+      "pick_no": 106,
+      "player": "Blake Corum",
+      "position": "RB",
+      "team": "LAR",
+      "amount": 24,
+      "draft_slot": 8,
+      "roster_id": 1,
+      "player_id": "11586"
     }
   ]
 }
