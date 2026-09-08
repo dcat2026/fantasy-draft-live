@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T01:22:05.631Z",
-  "pick_count": 32,
+  "updated_at": "2026-09-08T01:22:15.944Z",
+  "pick_count": 33,
   "picks": [
     {
       "pick_no": 1,
@@ -322,6 +322,16 @@
       "draft_slot": 10,
       "roster_id": 6,
       "player_id": "7523"
+    },
+    {
+      "pick_no": 33,
+      "player": "Jeremiyah Love",
+      "position": "RB",
+      "team": "ARI",
+      "amount": 86,
+      "draft_slot": 1,
+      "roster_id": 10,
+      "player_id": "13287"
     }
   ]
 }
