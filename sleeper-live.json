@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:24:35.603Z",
-  "pick_count": 109,
+  "updated_at": "2026-09-08T03:24:45.549Z",
+  "pick_count": 110,
   "picks": [
     {
       "pick_no": 1,
@@ -1092,6 +1092,16 @@
       "draft_slot": 9,
       "roster_id": 7,
       "player_id": "10222"
+    },
+    {
+      "pick_no": 110,
+      "player": "Stefon Diggs",
+      "position": "WR",
+      "team": "WAS",
+      "amount": 11,
+      "draft_slot": 6,
+      "roster_id": 9,
+      "player_id": "2449"
     }
   ]
 }
