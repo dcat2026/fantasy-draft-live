@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T01:13:44.912Z",
-  "pick_count": 30,
+  "updated_at": "2026-09-08T01:13:55.056Z",
+  "pick_count": 31,
   "picks": [
     {
       "pick_no": 1,
@@ -302,6 +302,16 @@
       "draft_slot": 1,
       "roster_id": 10,
       "player_id": "7569"
+    },
+    {
+      "pick_no": 31,
+      "player": "Kyren Williams",
+      "position": "RB",
+      "team": "LAR",
+      "amount": 200,
+      "draft_slot": 7,
+      "roster_id": 5,
+      "player_id": "8150"
     }
   ]
 }
