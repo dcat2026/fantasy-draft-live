@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T02:22:25.820Z",
-  "pick_count": 63,
+  "updated_at": "2026-09-08T02:22:35.710Z",
+  "pick_count": 60,
   "picks": [
     {
       "pick_no": 1,
@@ -602,36 +602,6 @@
       "draft_slot": 4,
       "roster_id": 4,
       "player_id": "4892"
-    },
-    {
-      "pick_no": 61,
-      "player": "Jadarian Price",
-      "position": "RB",
-      "team": "SEA",
-      "amount": 51,
-      "draft_slot": 6,
-      "roster_id": 9,
-      "player_id": "13286"
-    },
-    {
-      "pick_no": 62,
-      "player": "Matthew Stafford",
-      "position": "QB",
-      "team": "LAR",
-      "amount": 46,
-      "draft_slot": 3,
-      "roster_id": 2,
-      "player_id": "421"
-    },
-    {
-      "pick_no": 63,
-      "player": "Sam Darnold",
-      "position": "QB",
-      "team": "SEA",
-      "amount": 7,
-      "draft_slot": 7,
-      "roster_id": 5,
-      "player_id": "4943"
     }
   ]
 }
