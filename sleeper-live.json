@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T00:51:43.970Z",
-  "pick_count": 23,
+  "updated_at": "2026-09-08T00:58:06.719Z",
+  "pick_count": 26,
   "picks": [
     {
       "pick_no": 1,
@@ -232,6 +232,36 @@
       "draft_slot": 10,
       "roster_id": 6,
       "player_id": "6797"
+    },
+    {
+      "pick_no": 24,
+      "player": "Caleb Williams",
+      "position": "QB",
+      "team": "CHI",
+      "amount": 162,
+      "draft_slot": 5,
+      "roster_id": 8,
+      "player_id": "11560"
+    },
+    {
+      "pick_no": 25,
+      "player": "Kenneth Walker",
+      "position": "RB",
+      "team": "KC",
+      "amount": 186,
+      "draft_slot": 8,
+      "roster_id": 1,
+      "player_id": "8151"
+    },
+    {
+      "pick_no": 26,
+      "player": "Jalen Hurts",
+      "position": "QB",
+      "team": "PHI",
+      "amount": 190,
+      "draft_slot": 9,
+      "roster_id": 7,
+      "player_id": "6904"
     }
   ]
 }
