@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:46:07.572Z",
-  "pick_count": 137,
+  "updated_at": "2026-09-08T03:46:17.422Z",
+  "pick_count": 138,
   "picks": [
     {
       "pick_no": 1,
@@ -1372,6 +1372,16 @@
       "draft_slot": 10,
       "roster_id": 6,
       "player_id": "BAL"
+    },
+    {
+      "pick_no": 138,
+      "player": "Kenny Gainwell",
+      "position": "RB",
+      "team": "TB",
+      "amount": 1,
+      "draft_slot": 10,
+      "roster_id": 6,
+      "player_id": "7567"
     }
   ]
 }
