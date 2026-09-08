@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T01:17:15.788Z",
-  "pick_count": 32,
+  "updated_at": "2026-09-08T01:17:25.334Z",
+  "pick_count": 31,
   "picks": [
     {
       "pick_no": 1,
@@ -312,16 +312,6 @@
       "draft_slot": 7,
       "roster_id": 5,
       "player_id": "8150"
-    },
-    {
-      "pick_no": 32,
-      "player": "Trevor Lawrence",
-      "position": "QB",
-      "team": "JAX",
-      "amount": 181,
-      "draft_slot": 10,
-      "roster_id": 6,
-      "player_id": "7523"
     }
   ]
 }
