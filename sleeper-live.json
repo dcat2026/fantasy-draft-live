@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:13:16.399Z",
-  "pick_count": 98,
+  "updated_at": "2026-09-08T03:13:26.157Z",
+  "pick_count": 99,
   "picks": [
     {
       "pick_no": 1,
@@ -982,6 +982,16 @@
       "draft_slot": 10,
       "roster_id": 6,
       "player_id": "8161"
+    },
+    {
+      "pick_no": 99,
+      "player": "Rico Dowdle",
+      "position": "RB",
+      "team": "PIT",
+      "amount": 15,
+      "draft_slot": 9,
+      "roster_id": 7,
+      "player_id": "7021"
     }
   ]
 }
