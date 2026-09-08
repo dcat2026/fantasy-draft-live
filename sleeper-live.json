@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T02:35:54.166Z",
-  "pick_count": 71,
+  "updated_at": "2026-09-08T02:36:04.148Z",
+  "pick_count": 69,
   "picks": [
     {
       "pick_no": 1,
@@ -692,26 +692,6 @@
       "draft_slot": 2,
       "roster_id": 3,
       "player_id": "7543"
-    },
-    {
-      "pick_no": 70,
-      "player": "Quinshon Judkins",
-      "position": "RB",
-      "team": "CLE",
-      "amount": 31,
-      "draft_slot": 7,
-      "roster_id": 5,
-      "player_id": "12512"
-    },
-    {
-      "pick_no": 71,
-      "player": "C.J. Stroud",
-      "position": "QB",
-      "team": "HOU",
-      "amount": 2,
-      "draft_slot": 2,
-      "roster_id": 3,
-      "player_id": "9758"
     }
   ]
 }
