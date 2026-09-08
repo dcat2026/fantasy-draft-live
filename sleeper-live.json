@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:04:35.675Z",
-  "pick_count": 89,
+  "updated_at": "2026-09-08T03:04:46.832Z",
+  "pick_count": 90,
   "picks": [
     {
       "pick_no": 1,
@@ -892,6 +892,16 @@
       "draft_slot": 2,
       "roster_id": 3,
       "player_id": "12490"
+    },
+    {
+      "pick_no": 90,
+      "player": "Christian Watson",
+      "position": "WR",
+      "team": "GB",
+      "amount": 46,
+      "draft_slot": 2,
+      "roster_id": 3,
+      "player_id": "8167"
     }
   ]
 }
