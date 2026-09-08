@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:18:42.315Z",
-  "pick_count": 103,
+  "updated_at": "2026-09-08T03:18:52.709Z",
+  "pick_count": 101,
   "picks": [
     {
       "pick_no": 1,
@@ -1012,26 +1012,6 @@
       "draft_slot": 4,
       "roster_id": 4,
       "player_id": "12489"
-    },
-    {
-      "pick_no": 102,
-      "player": "Chris Godwin",
-      "position": "WR",
-      "team": "TB",
-      "amount": 33,
-      "draft_slot": 8,
-      "roster_id": 1,
-      "player_id": "4037"
-    },
-    {
-      "pick_no": 103,
-      "player": "Courtland Sutton",
-      "position": "WR",
-      "team": "DEN",
-      "amount": 17,
-      "draft_slot": 4,
-      "roster_id": 4,
-      "player_id": "5045"
     }
   ]
 }
