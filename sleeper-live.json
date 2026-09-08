@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:22:54.072Z",
-  "pick_count": 107,
+  "updated_at": "2026-09-08T03:23:04.213Z",
+  "pick_count": 108,
   "picks": [
     {
       "pick_no": 1,
@@ -1072,6 +1072,16 @@
       "draft_slot": 5,
       "roster_id": 8,
       "player_id": "13294"
+    },
+    {
+      "pick_no": 108,
+      "player": "Daniel Jones",
+      "position": "QB",
+      "team": "IND",
+      "amount": 7,
+      "draft_slot": 7,
+      "roster_id": 5,
+      "player_id": "5870"
     }
   ]
 }
