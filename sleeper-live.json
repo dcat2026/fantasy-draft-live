@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T02:25:03.552Z",
-  "pick_count": 63,
+  "updated_at": "2026-09-08T02:25:13.167Z",
+  "pick_count": 64,
   "picks": [
     {
       "pick_no": 1,
@@ -632,6 +632,16 @@
       "draft_slot": 7,
       "roster_id": 5,
       "player_id": "4943"
+    },
+    {
+      "pick_no": 64,
+      "player": "Ladd McConkey",
+      "position": "WR",
+      "team": "LAC",
+      "amount": 85,
+      "draft_slot": 5,
+      "roster_id": 8,
+      "player_id": "11635"
     }
   ]
 }
