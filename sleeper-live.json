@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T01:24:39.466Z",
-  "pick_count": 34,
+  "updated_at": "2026-09-08T01:30:04.938Z",
+  "pick_count": 38,
   "picks": [
     {
       "pick_no": 1,
@@ -342,6 +342,46 @@
       "draft_slot": 6,
       "roster_id": 9,
       "player_id": "8137"
+    },
+    {
+      "pick_no": 35,
+      "player": "Chris Olave",
+      "position": "WR",
+      "team": "NO",
+      "amount": 102,
+      "draft_slot": 7,
+      "roster_id": 5,
+      "player_id": "8144"
+    },
+    {
+      "pick_no": 36,
+      "player": "Dak Prescott",
+      "position": "QB",
+      "team": "DAL",
+      "amount": 156,
+      "draft_slot": 8,
+      "roster_id": 1,
+      "player_id": "3294"
+    },
+    {
+      "pick_no": 37,
+      "player": "Josh Jacobs",
+      "position": "RB",
+      "team": "GB",
+      "amount": 8,
+      "draft_slot": 1,
+      "roster_id": 10,
+      "player_id": "5850"
+    },
+    {
+      "pick_no": 38,
+      "player": "Brock Purdy",
+      "position": "QB",
+      "team": "SF",
+      "amount": 124,
+      "draft_slot": 8,
+      "roster_id": 1,
+      "player_id": "8183"
     }
   ]
 }
