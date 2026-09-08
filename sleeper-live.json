@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:37:55.256Z",
-  "pick_count": 124,
+  "updated_at": "2026-09-08T03:38:04.770Z",
+  "pick_count": 125,
   "picks": [
     {
       "pick_no": 1,
@@ -1242,6 +1242,16 @@
       "draft_slot": 6,
       "roster_id": 9,
       "player_id": "9756"
+    },
+    {
+      "pick_no": 125,
+      "player": "Isaiah Likely",
+      "position": "TE",
+      "team": "NYG",
+      "amount": 5,
+      "draft_slot": 3,
+      "roster_id": 2,
+      "player_id": "8131"
     }
   ]
 }
