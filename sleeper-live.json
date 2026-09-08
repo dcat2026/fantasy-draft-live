@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T02:31:03.561Z",
-  "pick_count": 68,
+  "updated_at": "2026-09-08T02:31:13.029Z",
+  "pick_count": 69,
   "picks": [
     {
       "pick_no": 1,
@@ -682,6 +682,16 @@
       "draft_slot": 8,
       "roster_id": 1,
       "player_id": "3163"
+    },
+    {
+      "pick_no": 69,
+      "player": "Jacob Saylors",
+      "position": "RB",
+      "team": "DET",
+      "amount": 1,
+      "draft_slot": 9,
+      "roster_id": 7,
+      "player_id": "11237"
     }
   ]
 }
