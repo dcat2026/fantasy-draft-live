@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:32:56.609Z",
-  "pick_count": 119,
+  "updated_at": "2026-09-08T03:33:06.461Z",
+  "pick_count": 118,
   "picks": [
     {
       "pick_no": 1,
@@ -1182,16 +1182,6 @@
       "draft_slot": 1,
       "roster_id": 10,
       "player_id": "12506"
-    },
-    {
-      "pick_no": 119,
-      "player": "Bryce Young",
-      "position": "QB",
-      "team": "CAR",
-      "amount": 6,
-      "draft_slot": 5,
-      "roster_id": 8,
-      "player_id": "9228"
     }
   ]
 }
