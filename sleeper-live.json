@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T00:44:39.349Z",
-  "pick_count": 20,
+  "updated_at": "2026-09-08T00:44:48.903Z",
+  "pick_count": 19,
   "picks": [
     {
       "pick_no": 1,
@@ -192,16 +192,6 @@
       "draft_slot": 3,
       "roster_id": 2,
       "player_id": "6786"
-    },
-    {
-      "pick_no": 20,
-      "player": "Joe Burrow",
-      "position": "QB",
-      "team": "CIN",
-      "amount": 185,
-      "draft_slot": 9,
-      "roster_id": 7,
-      "player_id": "6770"
     }
   ]
 }
