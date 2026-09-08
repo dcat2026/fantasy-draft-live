@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T00:19:07.485Z",
-  "pick_count": 8,
+  "updated_at": "2026-09-08T00:19:17.121Z",
+  "pick_count": 7,
   "picks": [
     {
       "pick_no": 1,
@@ -72,16 +72,6 @@
       "draft_slot": 7,
       "roster_id": 5,
       "player_id": "4866"
-    },
-    {
-      "pick_no": 8,
-      "player": "Ja'Marr Chase",
-      "position": "WR",
-      "team": "CIN",
-      "amount": 223,
-      "draft_slot": 5,
-      "roster_id": 8,
-      "player_id": "7564"
     }
   ]
 }
