@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:46:27.049Z",
-  "pick_count": 138,
+  "updated_at": "2026-09-08T03:46:41.477Z",
+  "pick_count": 139,
   "picks": [
     {
       "pick_no": 1,
@@ -1382,6 +1382,16 @@
       "draft_slot": 10,
       "roster_id": 6,
       "player_id": "7567"
+    },
+    {
+      "pick_no": 139,
+      "player": "Philadelphia Eagles",
+      "position": "DEF",
+      "team": "PHI",
+      "amount": 2,
+      "draft_slot": 3,
+      "roster_id": 2,
+      "player_id": "PHI"
     }
   ]
 }
