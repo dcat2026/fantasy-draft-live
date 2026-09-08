@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:40:38.905Z",
-  "pick_count": 128,
+  "updated_at": "2026-09-08T03:40:48.812Z",
+  "pick_count": 129,
   "picks": [
     {
       "pick_no": 1,
@@ -1282,6 +1282,16 @@
       "draft_slot": 2,
       "roster_id": 3,
       "player_id": "SEA"
+    },
+    {
+      "pick_no": 129,
+      "player": "Houston Texans",
+      "position": "DEF",
+      "team": "HOU",
+      "amount": 7,
+      "draft_slot": 8,
+      "roster_id": 1,
+      "player_id": "HOU"
     }
   ]
 }
