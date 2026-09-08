@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T01:41:40.478Z",
-  "pick_count": 44,
+  "updated_at": "2026-09-08T01:41:51.041Z",
+  "pick_count": 43,
   "picks": [
     {
       "pick_no": 1,
@@ -432,16 +432,6 @@
       "draft_slot": 5,
       "roster_id": 8,
       "player_id": "6804"
-    },
-    {
-      "pick_no": 44,
-      "player": "Derrick Henry",
-      "position": "RB",
-      "team": "BAL",
-      "amount": 185,
-      "draft_slot": 10,
-      "roster_id": 6,
-      "player_id": "3198"
     }
   ]
 }
