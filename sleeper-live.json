@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T00:17:33.878Z",
-  "pick_count": 6,
+  "updated_at": "2026-09-08T00:17:44.156Z",
+  "pick_count": 5,
   "picks": [
     {
       "pick_no": 1,
@@ -52,16 +52,6 @@
       "draft_slot": 6,
       "roster_id": 9,
       "player_id": "4881"
-    },
-    {
-      "pick_no": 6,
-      "player": "Jonathan Taylor",
-      "position": "RB",
-      "team": "IND",
-      "amount": 221,
-      "draft_slot": 1,
-      "roster_id": 10,
-      "player_id": "6813"
     }
   ]
 }
