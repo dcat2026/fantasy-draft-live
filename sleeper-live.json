@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:35:52.711Z",
-  "pick_count": 121,
+  "updated_at": "2026-09-08T03:36:09.658Z",
+  "pick_count": 122,
   "picks": [
     {
       "pick_no": 1,
@@ -1212,6 +1212,16 @@
       "draft_slot": 6,
       "roster_id": 9,
       "player_id": "12533"
+    },
+    {
+      "pick_no": 122,
+      "player": "Tyler Allgeier",
+      "position": "RB",
+      "team": "ARI",
+      "amount": 7,
+      "draft_slot": 4,
+      "roster_id": 4,
+      "player_id": "8132"
     }
   ]
 }
