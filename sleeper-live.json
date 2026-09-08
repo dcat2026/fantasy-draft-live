@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T01:37:49.408Z",
-  "pick_count": 41,
+  "updated_at": "2026-09-08T01:37:59.324Z",
+  "pick_count": 42,
   "picks": [
     {
       "pick_no": 1,
@@ -412,6 +412,16 @@
       "draft_slot": 5,
       "roster_id": 8,
       "player_id": "10229"
+    },
+    {
+      "pick_no": 42,
+      "player": "Patrick Mahomes",
+      "position": "QB",
+      "team": "KC",
+      "amount": 110,
+      "draft_slot": 2,
+      "roster_id": 3,
+      "player_id": "4046"
     }
   ]
 }
