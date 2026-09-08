@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T02:52:20.175Z",
-  "pick_count": 80,
+  "updated_at": "2026-09-08T02:52:30.936Z",
+  "pick_count": 83,
   "picks": [
     {
       "pick_no": 1,
@@ -802,6 +802,36 @@
       "draft_slot": 1,
       "roster_id": 10,
       "player_id": "12545"
+    },
+    {
+      "pick_no": 81,
+      "player": "George Kittle",
+      "position": "TE",
+      "team": "SF",
+      "amount": 10,
+      "draft_slot": 4,
+      "roster_id": 4,
+      "player_id": "4217"
+    },
+    {
+      "pick_no": 82,
+      "player": "Tucker Kraft",
+      "position": "TE",
+      "team": "GB",
+      "amount": 8,
+      "draft_slot": 7,
+      "roster_id": 5,
+      "player_id": "9484"
+    },
+    {
+      "pick_no": 83,
+      "player": "Rome Odunze",
+      "position": "WR",
+      "team": "CHI",
+      "amount": 5,
+      "draft_slot": 8,
+      "roster_id": 1,
+      "player_id": "11620"
     }
   ]
 }
