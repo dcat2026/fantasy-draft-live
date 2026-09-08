@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T02:05:13.121Z",
-  "pick_count": 56,
+  "updated_at": "2026-09-08T02:05:23.090Z",
+  "pick_count": 55,
   "picks": [
     {
       "pick_no": 1,
@@ -552,16 +552,6 @@
       "draft_slot": 8,
       "roster_id": 1,
       "player_id": "9997"
-    },
-    {
-      "pick_no": 56,
-      "player": "Garrett Wilson",
-      "position": "WR",
-      "team": "NYJ",
-      "amount": 44,
-      "draft_slot": 8,
-      "roster_id": 1,
-      "player_id": "8146"
     }
   ]
 }
