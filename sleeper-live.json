@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:39:28.929Z",
-  "pick_count": 126,
+  "updated_at": "2026-09-08T03:39:38.901Z",
+  "pick_count": 127,
   "picks": [
     {
       "pick_no": 1,
@@ -1262,6 +1262,16 @@
       "draft_slot": 2,
       "roster_id": 3,
       "player_id": "6819"
+    },
+    {
+      "pick_no": 127,
+      "player": "Rachaad White",
+      "position": "RB",
+      "team": "WAS",
+      "amount": 1,
+      "draft_slot": 7,
+      "roster_id": 5,
+      "player_id": "8136"
     }
   ]
 }
