@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:27:51.721Z",
-  "pick_count": 113,
+  "updated_at": "2026-09-08T03:28:01.173Z",
+  "pick_count": 114,
   "picks": [
     {
       "pick_no": 1,
@@ -1132,6 +1132,16 @@
       "draft_slot": 2,
       "roster_id": 3,
       "player_id": "13298"
+    },
+    {
+      "pick_no": 114,
+      "player": "J.K. Dobbins",
+      "position": "RB",
+      "team": "DEN",
+      "amount": 30,
+      "draft_slot": 10,
+      "roster_id": 6,
+      "player_id": "6806"
     }
   ]
 }
