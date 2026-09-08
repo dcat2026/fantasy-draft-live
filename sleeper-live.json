@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:07:22.767Z",
-  "pick_count": 90,
+  "updated_at": "2026-09-08T03:07:32.958Z",
+  "pick_count": 92,
   "picks": [
     {
       "pick_no": 1,
@@ -902,6 +902,26 @@
       "draft_slot": 2,
       "roster_id": 3,
       "player_id": "8167"
+    },
+    {
+      "pick_no": 91,
+      "player": "Dalton Kincaid",
+      "position": "TE",
+      "team": "BUF",
+      "amount": 2,
+      "draft_slot": 10,
+      "roster_id": 6,
+      "player_id": "10236"
+    },
+    {
+      "pick_no": 92,
+      "player": "Brian Thomas",
+      "position": "WR",
+      "team": "JAX",
+      "amount": 17,
+      "draft_slot": 3,
+      "roster_id": 2,
+      "player_id": "11631"
     }
   ]
 }
