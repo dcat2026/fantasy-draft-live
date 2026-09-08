@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T02:45:40.428Z",
-  "pick_count": 77,
+  "updated_at": "2026-09-08T02:45:50.470Z",
+  "pick_count": 76,
   "picks": [
     {
       "pick_no": 1,
@@ -762,16 +762,6 @@
       "draft_slot": 3,
       "roster_id": 2,
       "player_id": "7553"
-    },
-    {
-      "pick_no": 77,
-      "player": "Jameson Williams",
-      "position": "WR",
-      "team": "DET",
-      "amount": 20,
-      "draft_slot": 7,
-      "roster_id": 5,
-      "player_id": "8148"
     }
   ]
 }
