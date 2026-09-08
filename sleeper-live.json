@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:29:41.170Z",
-  "pick_count": 115,
+  "updated_at": "2026-09-08T03:29:55.339Z",
+  "pick_count": 116,
   "picks": [
     {
       "pick_no": 1,
@@ -1152,6 +1152,16 @@
       "draft_slot": 3,
       "roster_id": 2,
       "player_id": "13417"
+    },
+    {
+      "pick_no": 116,
+      "player": "Cam Ward",
+      "position": "QB",
+      "team": "TEN",
+      "amount": 4,
+      "draft_slot": 2,
+      "roster_id": 3,
+      "player_id": "12522"
     }
   ]
 }
