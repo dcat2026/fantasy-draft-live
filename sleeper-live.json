@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:23:45.293Z",
-  "pick_count": 108,
+  "updated_at": "2026-09-08T03:23:55.441Z",
+  "pick_count": 106,
   "picks": [
     {
       "pick_no": 1,
@@ -1062,26 +1062,6 @@
       "draft_slot": 8,
       "roster_id": 1,
       "player_id": "11586"
-    },
-    {
-      "pick_no": 107,
-      "player": "Makai Lemon",
-      "position": "WR",
-      "team": "PHI",
-      "amount": 6,
-      "draft_slot": 5,
-      "roster_id": 8,
-      "player_id": "13294"
-    },
-    {
-      "pick_no": 108,
-      "player": "Daniel Jones",
-      "position": "QB",
-      "team": "IND",
-      "amount": 7,
-      "draft_slot": 7,
-      "roster_id": 5,
-      "player_id": "5870"
     }
   ]
 }
