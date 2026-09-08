@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T01:22:25.867Z",
-  "pick_count": 33,
+  "updated_at": "2026-09-08T01:22:41.616Z",
+  "pick_count": 34,
   "picks": [
     {
       "pick_no": 1,
@@ -332,6 +332,16 @@
       "draft_slot": 1,
       "roster_id": 10,
       "player_id": "13287"
+    },
+    {
+      "pick_no": 34,
+      "player": "George Pickens",
+      "position": "WR",
+      "team": "DAL",
+      "amount": 152,
+      "draft_slot": 6,
+      "roster_id": 9,
+      "player_id": "8137"
     }
   ]
 }
