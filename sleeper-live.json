@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:13:06.382Z",
-  "pick_count": 96,
+  "updated_at": "2026-09-08T03:13:16.399Z",
+  "pick_count": 98,
   "picks": [
     {
       "pick_no": 1,
@@ -962,6 +962,26 @@
       "draft_slot": 6,
       "roster_id": 9,
       "player_id": "1466"
+    },
+    {
+      "pick_no": 97,
+      "player": "DK Metcalf",
+      "position": "WR",
+      "team": "PIT",
+      "amount": 8,
+      "draft_slot": 6,
+      "roster_id": 9,
+      "player_id": "5846"
+    },
+    {
+      "pick_no": 98,
+      "player": "Malik Willis",
+      "position": "QB",
+      "team": "MIA",
+      "amount": 12,
+      "draft_slot": 10,
+      "roster_id": 6,
+      "player_id": "8161"
     }
   ]
 }
