@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:08:41.887Z",
-  "pick_count": 93,
+  "updated_at": "2026-09-08T03:08:51.596Z",
+  "pick_count": 94,
   "picks": [
     {
       "pick_no": 1,
@@ -932,6 +932,16 @@
       "draft_slot": 8,
       "roster_id": 1,
       "player_id": "8228"
+    },
+    {
+      "pick_no": 94,
+      "player": "Michael Wilson",
+      "position": "WR",
+      "team": "ARI",
+      "amount": 14,
+      "draft_slot": 4,
+      "roster_id": 4,
+      "player_id": "10232"
     }
   ]
 }
