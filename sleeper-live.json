@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T01:52:30.393Z",
-  "pick_count": 49,
+  "updated_at": "2026-09-08T01:52:39.912Z",
+  "pick_count": 50,
   "picks": [
     {
       "pick_no": 1,
@@ -492,6 +492,16 @@
       "draft_slot": 2,
       "roster_id": 3,
       "player_id": "11581"
+    },
+    {
+      "pick_no": 50,
+      "player": "Tetairoa McMillan",
+      "position": "WR",
+      "team": "CAR",
+      "amount": 67,
+      "draft_slot": 5,
+      "roster_id": 8,
+      "player_id": "12526"
     }
   ]
 }
