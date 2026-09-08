@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:09:20.829Z",
-  "pick_count": 94,
+  "updated_at": "2026-09-08T03:09:30.271Z",
+  "pick_count": 95,
   "picks": [
     {
       "pick_no": 1,
@@ -942,6 +942,16 @@
       "draft_slot": 4,
       "roster_id": 4,
       "player_id": "10232"
+    },
+    {
+      "pick_no": 95,
+      "player": "Carnell Tate",
+      "position": "WR",
+      "team": "TEN",
+      "amount": 8,
+      "draft_slot": 2,
+      "roster_id": 3,
+      "player_id": "13279"
     }
   ]
 }
