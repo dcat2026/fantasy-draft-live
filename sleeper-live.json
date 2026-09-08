@@ -1,6 +1,6 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T02:33:03.944Z",
+  "updated_at": "2026-09-08T02:33:13.829Z",
   "pick_count": 69,
   "picks": [
     {
@@ -685,13 +685,13 @@
     },
     {
       "pick_no": 69,
-      "player": "Travis Etienne",
+      "player": "Jacob Saylors",
       "position": "RB",
-      "team": "NO",
-      "amount": 54,
-      "draft_slot": 2,
-      "roster_id": 3,
-      "player_id": "7543"
+      "team": "DET",
+      "amount": 1,
+      "draft_slot": 9,
+      "roster_id": 7,
+      "player_id": "11237"
     }
   ]
 }
