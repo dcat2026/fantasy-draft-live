@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T02:58:11.282Z",
-  "pick_count": 86,
+  "updated_at": "2026-09-08T02:58:21.071Z",
+  "pick_count": 85,
   "picks": [
     {
       "pick_no": 1,
@@ -852,16 +852,6 @@
       "draft_slot": 10,
       "roster_id": 6,
       "player_id": "9487"
-    },
-    {
-      "pick_no": 86,
-      "player": "Marvin Harrison",
-      "position": "WR",
-      "team": "ARI",
-      "amount": 17,
-      "draft_slot": 8,
-      "roster_id": 1,
-      "player_id": "11628"
     }
   ]
 }
