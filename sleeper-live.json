@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T00:27:25.540Z",
-  "pick_count": 11,
+  "updated_at": "2026-09-08T00:27:35.556Z",
+  "pick_count": 12,
   "picks": [
     {
       "pick_no": 1,
@@ -112,6 +112,16 @@
       "draft_slot": 2,
       "roster_id": 3,
       "player_id": "11564"
+    },
+    {
+      "pick_no": 12,
+      "player": "Christian McCaffrey",
+      "position": "RB",
+      "team": "SF",
+      "amount": 200,
+      "draft_slot": 2,
+      "roster_id": 3,
+      "player_id": "4034"
     }
   ]
 }
