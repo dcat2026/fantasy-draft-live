@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T02:59:52.389Z",
-  "pick_count": 86,
+  "updated_at": "2026-09-08T03:00:03.908Z",
+  "pick_count": 87,
   "picks": [
     {
       "pick_no": 1,
@@ -862,6 +862,16 @@
       "draft_slot": 8,
       "roster_id": 1,
       "player_id": "11628"
+    },
+    {
+      "pick_no": 87,
+      "player": "Rhamondre Stevenson",
+      "position": "RB",
+      "team": "NE",
+      "amount": 31,
+      "draft_slot": 8,
+      "roster_id": 1,
+      "player_id": "7611"
     }
   ]
 }
