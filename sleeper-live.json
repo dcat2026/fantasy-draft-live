@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T01:11:59.944Z",
-  "pick_count": 29,
+  "updated_at": "2026-09-08T01:12:17.647Z",
+  "pick_count": 30,
   "picks": [
     {
       "pick_no": 1,
@@ -292,6 +292,16 @@
       "draft_slot": 6,
       "roster_id": 9,
       "player_id": "9224"
+    },
+    {
+      "pick_no": 30,
+      "player": "Nico Collins",
+      "position": "WR",
+      "team": "HOU",
+      "amount": 139,
+      "draft_slot": 1,
+      "roster_id": 10,
+      "player_id": "7569"
     }
   ]
 }
