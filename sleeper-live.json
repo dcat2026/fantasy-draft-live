@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T01:58:13.299Z",
-  "pick_count": 52,
+  "updated_at": "2026-09-08T01:58:23.427Z",
+  "pick_count": 53,
   "picks": [
     {
       "pick_no": 1,
@@ -522,6 +522,16 @@
       "draft_slot": 4,
       "roster_id": 4,
       "player_id": "5849"
+    },
+    {
+      "pick_no": 53,
+      "player": "Tee Higgins",
+      "position": "WR",
+      "team": "CIN",
+      "amount": 49,
+      "draft_slot": 6,
+      "roster_id": 9,
+      "player_id": "6801"
     }
   ]
 }
