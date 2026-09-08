@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T02:46:59.308Z",
-  "pick_count": 78,
+  "updated_at": "2026-09-08T02:47:09.470Z",
+  "pick_count": 77,
   "picks": [
     {
       "pick_no": 1,
@@ -772,16 +772,6 @@
       "draft_slot": 7,
       "roster_id": 5,
       "player_id": "8148"
-    },
-    {
-      "pick_no": 78,
-      "player": "Luther Burden",
-      "position": "WR",
-      "team": "CHI",
-      "amount": 76,
-      "draft_slot": 10,
-      "roster_id": 6,
-      "player_id": "12519"
     }
   ]
 }
