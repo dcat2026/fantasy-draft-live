@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:08:00.414Z",
-  "pick_count": 92,
+  "updated_at": "2026-09-08T03:08:09.757Z",
+  "pick_count": 93,
   "picks": [
     {
       "pick_no": 1,
@@ -922,6 +922,16 @@
       "draft_slot": 3,
       "roster_id": 2,
       "player_id": "11631"
+    },
+    {
+      "pick_no": 93,
+      "player": "Jaylen Warren",
+      "position": "RB",
+      "team": "PIT",
+      "amount": 5,
+      "draft_slot": 8,
+      "roster_id": 1,
+      "player_id": "8228"
     }
   ]
 }
