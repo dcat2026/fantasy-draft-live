@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T00:18:14.341Z",
-  "pick_count": 7,
+  "updated_at": "2026-09-08T00:18:24.053Z",
+  "pick_count": 4,
   "picks": [
     {
       "pick_no": 1,
@@ -42,36 +42,6 @@
       "draft_slot": 9,
       "roster_id": 7,
       "player_id": "7547"
-    },
-    {
-      "pick_no": 5,
-      "player": "Lamar Jackson",
-      "position": "QB",
-      "team": "BAL",
-      "amount": 219,
-      "draft_slot": 6,
-      "roster_id": 9,
-      "player_id": "4881"
-    },
-    {
-      "pick_no": 6,
-      "player": "Jonathan Taylor",
-      "position": "RB",
-      "team": "IND",
-      "amount": 221,
-      "draft_slot": 1,
-      "roster_id": 10,
-      "player_id": "6813"
-    },
-    {
-      "pick_no": 7,
-      "player": "Saquon Barkley",
-      "position": "RB",
-      "team": "PHI",
-      "amount": 202,
-      "draft_slot": 7,
-      "roster_id": 5,
-      "player_id": "4866"
     }
   ]
 }
