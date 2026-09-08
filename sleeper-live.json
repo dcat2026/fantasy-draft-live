@@ -1,7 +1,7 @@
 {
   "draft_id": "1387227208942092288",
-  "updated_at": "2026-09-08T03:19:12.530Z",
-  "pick_count": 104,
+  "updated_at": "2026-09-08T03:19:23.371Z",
+  "pick_count": 103,
   "picks": [
     {
       "pick_no": 1,
@@ -1032,16 +1032,6 @@
       "draft_slot": 4,
       "roster_id": 4,
       "player_id": "5045"
-    },
-    {
-      "pick_no": 104,
-      "player": "Alec Pierce",
-      "position": "WR",
-      "team": "IND",
-      "amount": 28,
-      "draft_slot": 9,
-      "roster_id": 7,
-      "player_id": "8142"
     }
   ]
 }
